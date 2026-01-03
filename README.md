@@ -1,185 +1,128 @@
 # rag-eval-historical-newspapers
 
-Evaluation corpus of digitized historical newspapers from Chronicling America (Library of Congress) for testing RAG systems and document processors.
+Evaluation corpus of digitized historical newspapers from Chronicling America (Library of Congress) for testing RAG systems.
 
 ## What This Is
 
 This repository contains **evaluation data for RAG systems**:
 
-- **corpus.yaml** - Evaluation configuration defining domain context and testing scenarios
-- **Generated questions** - Validated Q/A pairs for evaluation (where available)
+- **corpus.yaml** - Evaluation scenarios (in each corpus directory)
 - **metadata.json** - Page inventory with LOC identifiers
-- **Download script** - Fetches pages in multiple formats (PDF, JP2, TXT, XML)
+- **Generated questions** - Validated Q/A pairs (where available)
 
-The actual newspaper files are not included - they are public domain works hosted by the Library of Congress. Use the download script to fetch them.
+The actual newspaper files are not included. Use `download_newspapers.py` to fetch them from the Library of Congress.
 
-## Purpose
-
-Historical newspapers are a challenging real-world use case for document processing. This corpus tests document-processor's handling of:
-
-- **OCR errors**: Variable quality due to age, printing quality, and paper condition
-- **Multi-column layouts**: Complex newspaper page structures with mixed content
-- **Historical typography**: Old fonts, printing styles, and period-specific formatting
-- **Mixed content regions**: Advertisements, articles, images interspersed on pages
-- **Period-specific language**: Archaic vocabulary, historical terminology
-
-The LOC's pre-extracted OCR text (TXT/XML files) serves as ground truth for comparing document-processor's extraction quality against pages processed from PDF/JP2 images.
-
-## Usage
+## Quick Start
 
 ```bash
-# Install dependencies
 cd scripts
 uv sync
-
-# Download a corpus (downloads all 4 formats per page: PDF, JP2, TXT, XML)
-uv run python download_newspapers.py "prohibition" --corpus prohibition_1920s \
-    --start-date 1920-01-01 --end-date 1929-12-31 --max-pages 150
-
-uv run python download_newspapers.py "influenza epidemic" --corpus spanish_flu_1918 \
-    --start-date 1918-01-01 --end-date 1919-12-31 --max-pages 150
-
-uv run python download_newspapers.py "gold rush" --corpus gold_rush \
-    --start-date 1848-01-01 --end-date 1855-12-31 --state california --max-pages 150
-
-# Specify output directory
-uv run python download_newspapers.py "war kaiser" --corpus wwi_american \
-    --start-date 1917-01-01 --end-date 1918-11-11 --data-dir /path/to/data
+uv run python download_newspapers.py prohibition_1920s --max-docs 5
 ```
 
-## Output Structure
+## Available Corpora
+
+| Corpus | Pages | Description |
+|--------|-------|-------------|
+| `prohibition_1920s` | 146 | 18th Amendment era coverage |
+| `civil_war_union` | 150 | Northern newspapers 1861-1865 |
+| `civil_war_confederate` | 150 | Southern newspapers 1861-1865 |
+| `spanish_flu_1918` | 150 | Pandemic coverage 1918-1919 |
+| `wwi_american` | 150 | US entry to armistice 1917-1918 |
+| `gold_rush` | 150 | California Gold Rush 1848-1855 |
+| `great_depression` | 150 | Economic crisis 1929-1939 |
+| `womens_suffrage` | 142 | 19th Amendment lead-up 1910-1920 |
+
+All corpora were built December 2025 from Chronicling America.
+
+## Directory Structure
 
 ```
 data/<corpus>/
-    corpus.yaml                         # Evaluation configuration
-    metadata.json                       # Page metadata for all downloads
-    pages/                              # All format files per page (gitignored)
-        sn84026749_1920-01-15_ed-1_seq-1.pdf   # Scanned page image
-        sn84026749_1920-01-15_ed-1_seq-1.jp2   # High-res JPEG2000
-        sn84026749_1920-01-15_ed-1_seq-1.txt   # Plain OCR text
-        sn84026749_1920-01-15_ed-1_seq-1.xml   # ALTO XML with coordinates
-        ...
+    corpus.yaml         # Evaluation configuration
+    metadata.json       # Page inventory
+    pages/              # Downloaded files (gitignored)
 
 scripts/
-    download_newspapers.py              # Fetch pages from LOC
+    download_newspapers.py  # Fetch pages from existing metadata
+    build_corpus.py         # Build new corpora via LOC search
 ```
 
-### File Formats
-
-| Format | Extension | Purpose |
-|--------|-----------|---------|
-| PDF | `.pdf` | Scanned page image with embedded OCR layer |
-| JP2 | `.jp2` | High-resolution JPEG2000 image |
-| TXT | `.txt` | LOC's plain text OCR output |
-| XML | `.xml` | ALTO XML with word coordinates |
-
-### Corpus Organization (Future Step)
-
-This script downloads all 4 formats into a single directory structure. A later step should organize these into **separate corpora per format** for testing different document-processor input pathways:
-
-```
-prohibition_1920s_pdf/    → Tests PDF ingestion
-prohibition_1920s_jp2/    → Tests JP2 image ingestion (if supported)
-prohibition_1920s_txt/    → Tests plain text ingestion
-prohibition_1920s_xml/    → Tests ALTO XML ingestion (if supported)
-```
-
-Each format corpus tests document-processor's handling of that specific input type. You do NOT feed 4 formats of the same page into one corpus - that's 4 separate corpora, each with the same content in different formats.
-
-This organization logic belongs in the evaluation pipeline, not in this download tooling. The download script just acquires all available formats.
-
-### Metadata Format
+## Metadata Format
 
 ```json
 {
   "corpus": "prohibition_1920s",
   "search_query": "prohibition",
   "start_date": "1920-01-01",
-  "end_date": "1929-12-31",
+  "end_date": "1933-12-31",
   "state_filter": null,
-  "total_pages": 150,
+  "total_pages": 146,
   "pages": [
     {
-      "page_id": "sn84026749/1920-01-15/ed-1/seq-1",
-      "newspaper_title": "The San Francisco Call",
-      "lccn": "sn84026749",
-      "date": "1920-01-15",
+      "page_id": "sn85042345/1920-02-29/ed-1/seq-1",
+      "newspaper_title": "The Morning Tulsa Daily World",
+      "lccn": "sn85042345",
+      "date": "1920-02-29",
       "edition": 1,
       "sequence": 1,
-      "state": "California",
-      "city": "San Francisco",
-      "url": "https://chroniclingamerica.loc.gov/lccn/sn84026749/1920-01-15/ed-1/seq-1/",
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_hughes_ver01/...",
+      "url": "https://www.loc.gov/resource/sn85042345/1920-02-29/ed-1/?sp=1",
       "files": {
-        "pdf": "pages/sn84026749_1920-01-15_ed-1_seq-1.pdf",
-        "jp2": "pages/sn84026749_1920-01-15_ed-1_seq-1.jp2",
-        "txt": "pages/sn84026749_1920-01-15_ed-1_seq-1.txt",
-        "xml": "pages/sn84026749_1920-01-15_ed-1_seq-1.xml"
+        "pdf": "pages/sn85042345_1920-02-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85042345_1920-02-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn85042345_1920-02-29_ed-1_seq-1.xml",
+        "txt": "pages/sn85042345_1920-02-29_ed-1_seq-1.txt"
       }
     }
   ]
 }
 ```
 
-## Suggested Corpora
+## Downloading Pages
 
-Create these topic-focused corpora (150 pages each, ~300-750MB per corpus):
+The download script fetches files from LOC storage based on existing metadata:
 
-| Corpus | Search Query | Date Range | Notes |
-|--------|--------------|------------|-------|
-| `prohibition_1920s` | `prohibition` or `volstead` | 1920-1933 | 18th Amendment era |
-| `civil_war_union` | `war rebellion confederate` | 1861-1865 | Northern newspapers |
-| `civil_war_confederate` | `war yankee invasion` | 1861-1865 | Southern newspapers |
-| `spanish_flu_1918` | `influenza epidemic flu` | 1918-1919 | Pandemic coverage |
-| `wwi_american` | `war kaiser germany` | 1917-1918 | US entry to armistice |
-| `gold_rush` | `gold miners california` | 1848-1855 | California Gold Rush |
-| `great_depression` | `unemployment relief depression` | 1929-1939 | Economic crisis |
-| `womens_suffrage` | `suffrage women vote` | 1910-1920 | 19th Amendment lead-up |
+```bash
+cd scripts
+uv run python download_newspapers.py prohibition_1920s --max-docs 5
+uv run python download_newspapers.py civil_war_union
+```
 
-## Features
+| Option | Description |
+|--------|-------------|
+| `corpus` | Corpus name (e.g., prohibition_1920s) |
+| `--max-docs` | Maximum pages to download (default: all) |
+| `--delay` | Delay between requests in seconds (default: 1.0) |
 
-- **Downloads all 4 formats**: PDF, JP2, TXT, XML per page (~2-5MB total per page)
-- **Resumable downloads**: Re-run the same command to continue interrupted downloads
-- **Rate limiting**: Conservative 3-second delays with exponential backoff
-- **Metadata tracking**: All page metadata saved for downstream processing
+Each page downloads 4 files: PDF, JP2, XML, and TXT (~2-5MB total per page).
 
-## API Details
+## Building New Corpora
 
-Uses the Library of Congress JSON API and Text Services:
+The build script searches Chronicling America and creates new corpora:
 
-- **Search**: `GET https://www.loc.gov/collections/chronicling-america/?fo=json&dl=page`
-- **PDF/JP2/XML**: `https://tile.loc.gov/storage-services/service/{batch_path}.{ext}`
-- **OCR Text**: `https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/{batch_path}.xml&format=alto_xml&full_text=1`
-- **Pagination**: Page-based via `sp` parameter
-- **Rate limits**: 20 requests/minute burst, 20 requests/10 seconds crawl
+```bash
+cd scripts
+uv run python build_corpus.py "prohibition" --corpus prohibition_1920s \
+    --start-date 1920-01-01 --end-date 1933-12-31 --max-pages 150
+```
 
-Note: The `batch_path` is extracted from IIIF image URLs in search results and used to construct file download URLs. The older `chroniclingamerica.loc.gov/lccn/.../ocr.txt` endpoint is deprecated and returns 404 for many pages.
+| Option | Description |
+|--------|-------------|
+| `query` | Search query for Chronicling America (required) |
+| `--corpus` | Corpus directory name (required) |
+| `--max-pages` | Maximum pages to download (default: 150) |
+| `--start-date` | Start date filter (YYYY-MM-DD) |
+| `--end-date` | End date filter (YYYY-MM-DD) |
+| `--state` | State filter |
+| `--data-dir` | Output directory (default: ../data/) |
 
 ## Licensing
 
-**This repository** (scripts, configurations): MIT License
+**This repository**: MIT License
 
-**Newspaper content**: Public domain (digitized historical newspapers with no copyright restrictions)
+**Newspaper content**: Public domain (digitized historical newspapers)
 
 The Chronicling America collection is a project of the [National Digital Newspaper Program](https://www.loc.gov/ndnp/), a partnership between the Library of Congress and the National Endowment for the Humanities.
-
-## OCR Quality Notes
-
-OCR quality varies significantly based on:
-
-- **Age of original**: Older papers often have degraded print quality
-- **Paper condition**: Yellowing, tears, and stains affect recognition
-- **Typography**: Period-specific fonts and printing techniques
-- **Layout complexity**: Multi-column layouts with mixed content
-
-This variability is intentional - it tests document-processor's robustness against real-world historical documents.
-
-## Requirements
-
-- Python 3.11+
-- Dependencies: `httpx`, `tqdm` (see pyproject.toml)
-
-## Storage Estimate
-
-- Per page: ~2-5MB (4 files)
-- Per corpus (150 pages): ~300-750MB
-- Full collection (8 corpora): ~2.4-6GB
