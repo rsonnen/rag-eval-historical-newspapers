@@ -1,0 +1,18 @@
+# Downloaded pages (PDFs, images, OCR)
+data/*/pages/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+scripts/.venv/
+
+# uv lock (user regenerates)
+uv.lock
+scripts/uv.lock
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store

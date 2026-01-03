@@ -1,0 +1,2638 @@
+{
+  "corpus": "prohibition_1920s",
+  "search_query": "prohibition",
+  "start_date": "1920-01-01",
+  "end_date": "1933-12-31",
+  "state_filter": null,
+  "total_pages": 146,
+  "pages": [
+    {
+      "page_id": "sn85042345/1920-02-29/ed-1/seq-1",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1920-02-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_hughes_ver01/data/sn85042345/00237284641/1920022901/1136",
+      "url": "https://www.loc.gov/resource/sn85042345/1920-02-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85042345_1920-02-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85042345_1920-02-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn85042345_1920-02-29_ed-1_seq-1.xml",
+        "txt": "pages/sn85042345_1920-02-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82004649/1921-12-08/ed-2/seq-1",
+      "newspaper_title": "baptist courier (greenville, s.c.) 1877-2013",
+      "lccn": "sn82004649",
+      "date": "1921-12-08",
+      "edition": 2,
+      "sequence": 1,
+      "state": "south carolina",
+      "city": "greenville",
+      "batch_path": "ndnp/scu/batch_scu_grapes_ver02/data/sn82004649/00517016421/1921120802/0805",
+      "url": "https://www.loc.gov/resource/sn82004649/1921-12-08/ed-2/?sp=1",
+      "files": {
+        "pdf": "pages/sn82004649_1921-12-08_ed-2_seq-1.pdf",
+        "jp2": "pages/sn82004649_1921-12-08_ed-2_seq-1.jp2",
+        "xml": "pages/sn82004649_1921-12-08_ed-2_seq-1.xml",
+        "txt": "pages/sn82004649_1921-12-08_ed-2_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-01-25/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-01-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657670/1925012501/0344",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-01-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-01-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-01-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-01-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-01-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-02-01/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-02-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657670/1925020101/0654",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-02-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-02-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-02-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-02-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-02-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1926-08-29/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1926-08-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_goodman_ver02/data/sn83045462/00280659113/1926082901/0184",
+      "url": "https://www.loc.gov/resource/sn83045462/1926-08-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1926-08-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1926-08-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1926-08-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1926-08-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-11-15/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-11-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659332/1925111501/0002",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-11-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-11-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-11-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-11-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-11-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1926-07-25/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1926-07-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_goodman_ver02/data/sn83045462/00280659095/1926072501/0108",
+      "url": "https://www.loc.gov/resource/sn83045462/1926-07-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1926-07-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1926-07-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1926-07-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1926-07-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1926-10-17/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1926-10-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_goodman_ver02/data/sn83045462/00280659149/1926101701/0575",
+      "url": "https://www.loc.gov/resource/sn83045462/1926-10-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1926-10-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1926-10-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1926-10-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1926-10-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-01-16/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-01-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/00280659228/1927011601/0002",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-01-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-01-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-01-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-01-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-01-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-01-09/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-01-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/00280659216/1927010901/0371",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-01-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-01-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-01-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-01-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-01-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-02-27/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-02-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/00280659253/1927022701/0087",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-02-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-02-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-02-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-02-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-02-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-03-20/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-03-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/00280659678/1927032001/0557",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-03-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-03-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-03-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-03-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-03-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-02-13/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-02-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/00280659241/1927021301/0038",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-02-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-02-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-02-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-02-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-02-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-02-20/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-02-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/00280659241/1927022001/0430",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-02-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-02-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-02-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-02-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-02-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-03-13/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-03-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/00280659678/1927031301/0142",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-03-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-03-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-03-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-03-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-03-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-03-06/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-03-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/00280659253/1927030601/0474",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-03-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-03-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-03-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-03-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-03-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-03-27/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-03-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_hines_ver01/data/sn83045462/0028065968A/1927032701/0230",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-03-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-03-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-03-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-03-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-03-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-05-24/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-05-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657608/1925052401/0498",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-05-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-05-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-05-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-05-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-05-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-12-10/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-12-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601342/1933121001/0189",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-12-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-12-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-12-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-12-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-12-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-09-14/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-09-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657761/1924091401/0453",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-09-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-09-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-09-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-09-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-09-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-12-17/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-12-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601469/1933121701/0007",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-12-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-12-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-12-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-12-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-12-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-10-19/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-10-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657748/1924101901/0664",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-10-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-10-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-10-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-10-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-10-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-11-12/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-11-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601329/1933111201/0233",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-11-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-11-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-11-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-11-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-11-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-05-17/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-05-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657608/1925051701/0148",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-05-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-05-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-05-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-05-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-05-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-10-05/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-10-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/0028065775A/1924100501/0717",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-10-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-10-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-10-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-10-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-10-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-12-03/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-12-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601330/1933120301/0521",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-12-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-12-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-12-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-12-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-12-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-10-08/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-10-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933100801/0007",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-10-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-10-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-10-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-10-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-10-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-09-20/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-09-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659290/1925092001/0178",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-09-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-09-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-09-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-09-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-09-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-09-13/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-09-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659289/1925091301/0543",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-09-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-09-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-09-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-09-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-09-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-09-10/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-09-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83045774/00271744365/1922091001/0281",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-09-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-09-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-09-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-09-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-09-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-08-06/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-08-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83045774/00271744353/1922080601/0123",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-08-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-08-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-08-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-08-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-08-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-03-16/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-03-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657499/1924031601/0472",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-03-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-03-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-03-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-03-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-03-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-05-14/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-05-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601068/1933051401/0473",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-05-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-05-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-05-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-05-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-05-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-04-06/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-04-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657517/1924040601/0002",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-04-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-04-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-04-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-04-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-04-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-03-09/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-03-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657499/1924030901/0120",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-03-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-03-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-03-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-03-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-03-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-01-29/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-01-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280600921/1933012901/0385",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-01-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-01-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-01-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-01-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-01-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1923-11-18/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1923-11-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657426/1923111801/0386",
+      "url": "https://www.loc.gov/resource/sn83045462/1923-11-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1923-11-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1923-11-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1923-11-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1923-11-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-05-11/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-05-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657530/1924051101/0124",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-05-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-05-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-05-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-05-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-05-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1923-03-11/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1923-03-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/0028065727A/1923031101/0498",
+      "url": "https://www.loc.gov/resource/sn83045462/1923-03-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1923-03-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1923-03-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1923-03-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1923-03-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-06-11/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-06-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601111/1933061101/0329",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-06-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-06-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-06-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-06-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-06-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-05-18/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-05-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657530/1924051801/0476",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-05-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-05-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-05-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-05-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-05-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-05-04/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-05-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657529/1924050401/0562",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-05-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-05-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-05-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-05-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-05-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1923-11-25/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1923-11-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657426/1923112501/0720",
+      "url": "https://www.loc.gov/resource/sn83045462/1923-11-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1923-11-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1923-11-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1923-11-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1923-11-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1923-12-02/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1923-12-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657438/1923120201/0231",
+      "url": "https://www.loc.gov/resource/sn83045462/1923-12-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1923-12-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1923-12-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1923-12-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1923-12-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-03-05/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-03-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280600945/1933030501/0331",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-03-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-03-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-03-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-03-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-03-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1923-12-16/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1923-12-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/0028065744A/1923121601/0239",
+      "url": "https://www.loc.gov/resource/sn83045462/1923-12-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1923-12-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1923-12-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1923-12-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1923-12-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1923-12-09/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1923-12-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657438/1923120901/0605",
+      "url": "https://www.loc.gov/resource/sn83045462/1923-12-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1923-12-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1923-12-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1923-12-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1923-12-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-04-30/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-04-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601056/1933043001/0611",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-04-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-04-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-04-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-04-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-04-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-04-13/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-04-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657517/1924041301/0357",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-04-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-04-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-04-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-04-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-04-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-03-23/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-03-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657505/1924032301/0030",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-03-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-03-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-03-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-03-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-03-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-06-15/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-06-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657554/1924061501/0246",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-06-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-06-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-06-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-06-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-06-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-09-17/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-09-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601287/1933091701/0375",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-09-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-09-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-09-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-09-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-09-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-06-08/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-06-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657542/1924060801/0614",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-06-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-06-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-06-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-06-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-06-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-09-10/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-09-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601287/1933091001/0007",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-09-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-09-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-09-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-09-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-09-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-12-04/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-12-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1bernal_ver01/data/sn83045462/00280600891/1932120401/0261",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-12-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-12-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-12-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-12-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-12-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1923-10-21/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1923-10-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657402/1923102101/0444",
+      "url": "https://www.loc.gov/resource/sn83045462/1923-10-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1923-10-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1923-10-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1923-10-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1923-10-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-06-01/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-06-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657542/1924060101/0262",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-06-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-06-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-06-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-06-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-06-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-09-24/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-09-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601299/1933092401/0007",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-09-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-09-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-09-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-09-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-09-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-10-26/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-10-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657736/1924102601/0206",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-10-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-10-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-10-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-10-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-10-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-05-27/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-05-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659587/1928052701/0038",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-05-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-05-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-05-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-05-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-05-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-05-06/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-05-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659563/1928050601/0379",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-05-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-05-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-05-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-05-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-05-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-01-22/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-01-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659484/1928012201/0580",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-01-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-01-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-01-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-01-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-01-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1927-11-20/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1927-11-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_irving_ver01/data/sn83045462/00280659861/1927112001/0194",
+      "url": "https://www.loc.gov/resource/sn83045462/1927-11-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1927-11-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1927-11-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1927-11-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1927-11-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-05-13/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-05-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659575/1928051301/0036",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-05-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-05-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-05-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-05-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-05-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-04-29/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-04-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659563/1928042901/0002",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-04-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-04-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-04-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-04-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-04-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-04-22/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-04-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659551/1928042201/0370",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-04-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-04-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-04-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-04-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-04-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-06-03/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-06-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659587/1928060301/0380",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-06-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-06-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-06-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-06-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-06-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-04-15/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-04-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659551/1928041501/0002",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-04-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-04-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-04-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-04-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-04-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-04-08/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-04-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/0028065954A/1928040801/0274",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-04-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-04-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-04-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-04-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-04-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-02-05/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-02-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659496/1928020501/0596",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-02-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-02-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-02-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-02-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-02-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-02-12/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-02-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659502/1928021201/0226",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-02-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-02-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-02-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-02-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-02-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-01-08/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-01-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659472/1928010801/0657",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-01-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-01-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-01-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-01-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-01-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-03-25/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-03-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659538/1928032501/0216",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-03-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-03-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-03-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-03-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-03-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-04-01/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-04-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659538/1928040101/0602",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-04-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-04-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-04-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-04-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-04-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-03-18/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-03-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659526/1928031801/0546",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-03-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-03-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-03-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-03-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-03-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-03-11/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-03-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659526/1928031101/0172",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-03-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-03-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-03-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-03-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-03-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-03-04/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-03-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659514/1928030401/0543",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-03-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-03-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-03-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-03-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-03-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-02-19/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-02-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659502/1928021901/0596",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-02-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-02-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-02-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-02-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-02-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-01-29/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-01-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659496/1928012901/0223",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-01-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-01-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-01-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-01-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-01-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-05-20/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-05-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659575/1928052001/0419",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-05-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-05-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-05-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-05-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-05-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-06-10/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-06-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659599/1928061001/0036",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-06-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-06-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-06-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-06-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-06-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1928-06-17/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1928-06-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_johnson_ver01/data/sn83045462/00280659599/1928061701/0408",
+      "url": "https://www.loc.gov/resource/sn83045462/1928-06-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1928-06-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1928-06-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1928-06-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1928-06-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-08-13/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-08-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83045774/00271744353/1922081301/0345",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-08-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-08-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-08-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-08-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-08-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-09-03/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-09-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83045774/00271744365/1922090301/0051",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-09-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-09-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-09-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-09-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-09-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-09-17/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-09-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83045774/00271744365/1922091701/0531",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-09-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-09-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-09-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-09-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-09-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-09-24/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-09-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83045774/00271744365/1922092401/0789",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-09-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-09-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-09-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-09-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-09-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1922-04-30/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1922-04-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_cylon_ver01/data/sn83045462/00280657104/1922043001/0613",
+      "url": "https://www.loc.gov/resource/sn83045462/1922-04-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1922-04-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1922-04-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1922-04-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1922-04-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1922-12-17/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1922-12-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dalek_ver01/data/sn83045462/00280657232/1922121701/0147",
+      "url": "https://www.loc.gov/resource/sn83045462/1922-12-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1922-12-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1922-12-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1922-12-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1922-12-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1922-12-10/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1922-12-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dalek_ver01/data/sn83045462/00280657220/1922121001/0558",
+      "url": "https://www.loc.gov/resource/sn83045462/1922-12-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1922-12-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1922-12-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1922-12-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1922-12-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-05-14/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-05-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744274/1922051401/0425",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-05-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-05-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-05-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-05-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-05-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-05-28/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-05-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744274/1922052801/0947",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-05-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-05-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-05-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-05-28_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-05-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-01-03/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-01-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280600878/1932010301/0185",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-01-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-01-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-01-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-01-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-01-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1931-12-20/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1931-12-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280600866/1931122001/0295",
+      "url": "https://www.loc.gov/resource/sn83045462/1931-12-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1931-12-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1931-12-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1931-12-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1931-12-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1931-12-13/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1931-12-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280600854/1931121301/0607",
+      "url": "https://www.loc.gov/resource/sn83045462/1931-12-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1931-12-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1931-12-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1931-12-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1931-12-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-01-17/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-01-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/0028060088A/1932011701/0237",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-01-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-01-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-01-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-01-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-01-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-01-10/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-01-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280600878/1932011001/0505",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-01-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-01-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-01-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-01-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-01-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1931-12-06/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1931-12-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280600854/1931120601/0201",
+      "url": "https://www.loc.gov/resource/sn83045462/1931-12-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1931-12-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1931-12-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1931-12-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1931-12-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-02-07/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-02-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280600957/1932020701/0531",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-02-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-02-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-02-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-02-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-02-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-01-24/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-01-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/0028060088A/1932012401/0559",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-01-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-01-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-01-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-01-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-01-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-09-25/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-09-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1bernal_ver01/data/sn83045462/00280600787/1932092501/0589",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-09-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-09-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-09-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-09-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-09-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-03-13/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-03-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280600982/1932031301/0133",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-03-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-03-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-03-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-03-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-03-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-09-11/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-09-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1bernal_ver01/data/sn83045462/00280600775/1932091101/0491",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-09-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-09-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-09-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-09-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-09-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-09-18/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-09-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1bernal_ver01/data/sn83045462/00280600787/1932091801/0257",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-09-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-09-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-09-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-09-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-09-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-04-10/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-04-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280601007/1932041001/0087",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-04-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-04-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-04-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-04-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-04-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-03-06/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-03-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280600970/1932030601/0557",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-03-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-03-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-03-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-03-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-03-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1932-05-15/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1932-05-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1arp_ver01/data/sn83045462/00280601044/1932051501/0335",
+      "url": "https://www.loc.gov/resource/sn83045462/1932-05-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1932-05-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1932-05-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1932-05-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1932-05-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1922-10-15/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1922-10-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dalek_ver01/data/sn83045462/00280657190/1922101501/0295",
+      "url": "https://www.loc.gov/resource/sn83045462/1922-10-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1922-10-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1922-10-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1922-10-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1922-10-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-05-21/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-05-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744274/1922052101/0687",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-05-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-05-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-05-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-05-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-05-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-07-30/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-07-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744298/1922073001/0905",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-07-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-07-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-07-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-07-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-07-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-06-11/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-06-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744286/1922061101/0316",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-06-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-06-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-06-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-06-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-06-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-05-07/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-05-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744274/1922050701/0161",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-05-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-05-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-05-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-05-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-06-25/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-06-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744286/1922062501/0800",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-06-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-06-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-06-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-06-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-06-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-06-18/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-06-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744286/1922061801/0560",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-06-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-06-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-06-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-06-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-06-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-07-09/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-07-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83045774/00271744298/1922070901/0254",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-07-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-07-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-07-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-07-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-07-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-05-10/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-05-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/0028065761A/1925051001/0580",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-05-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-05-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-05-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-05-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-05-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1923-03-11/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1923-03-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_melville_ver02/data/sn84026749/00222253962/1923031101/0153",
+      "url": "https://www.loc.gov/resource/sn84026749/1923-03-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1923-03-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1923-03-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1923-03-11_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1923-03-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-02-26/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-02-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83045774/00271744341/1922022601/0825",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-02-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-02-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-02-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-02-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-02-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-02-12/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-02-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83045774/00271744341/1922021201/0345",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-02-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-02-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-02-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-02-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-02-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1921-01-09/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1921-01-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83045774/00271744122/1921010901/0245",
+      "url": "https://www.loc.gov/resource/sn83045774/1921-01-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1921-01-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1921-01-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1921-01-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1921-01-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-01-08/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-01-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83045774/0027174433A/1922010801/0242",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-01-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-01-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-01-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-01-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-01-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-02-05/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-02-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83045774/00271744341/1922020501/0107",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-02-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-02-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-02-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-02-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-02-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-02-19/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-02-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83045774/00271744341/1922021901/0583",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-02-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-02-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-02-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-02-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-02-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-04-02/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-04-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744262/1922040201/0039",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-04-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-04-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-04-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-04-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-04-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-04-30/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-04-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744262/1922043001/1069",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-04-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-04-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-04-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-04-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-04-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-04-23/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-04-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744262/1922042301/0791",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-04-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-04-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-04-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-04-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-04-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045774/1922-04-09/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york, n.y.) 1920-1924",
+      "lccn": "sn83045774",
+      "date": "1922-04-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744262/1922040901/0301",
+      "url": "https://www.loc.gov/resource/sn83045774/1922-04-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045774_1922-04-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045774_1922-04-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045774_1922-04-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83045774_1922-04-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-05-31/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-05-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280657591/1925053101/0002",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-05-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-05-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-05-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-05-31_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-05-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-11-16/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-11-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657724/1924111601/0569",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-11-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-11-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-11-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-11-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-11-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-06-14/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-06-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280657591/1925061401/0676",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-06-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-06-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-06-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-06-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-06-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-08-16/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-08-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659277/1925081601/0168",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-08-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-08-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-08-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-08-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-08-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-10-12/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-10-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657748/1924101201/0273",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-10-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-10-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-10-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-10-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-10-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-01-18/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-01-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657670/1925011801/0028",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-01-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-01-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-01-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-01-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-01-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1933-10-29/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1933-10-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601317/1933102901/0329",
+      "url": "https://www.loc.gov/resource/sn83045462/1933-10-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1933-10-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1933-10-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1933-10-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1933-10-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-11-30/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-11-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657712/1924113001/0548",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-11-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-11-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-11-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-11-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-11-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-11-23/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-11-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657712/1924112301/0206",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-11-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-11-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-11-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-11-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-11-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-11-09/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-11-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657724/1924110901/0217",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-11-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-11-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-11-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-11-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-11-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-12-21/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-12-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657694/1924122101/0232",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-12-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-12-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-12-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-12-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-12-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-12-14/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-12-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657700/1924121401/0574",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-12-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-12-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-12-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-12-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-12-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1924-12-07/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1924-12-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657700/1924120701/0194",
+      "url": "https://www.loc.gov/resource/sn83045462/1924-12-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1924-12-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1924-12-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1924-12-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1924-12-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-08-30/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-08-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659277/1925083001/0740",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-08-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-08-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-08-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-08-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-08-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-10-11/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-10-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659307/1925101101/0470",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-10-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-10-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-10-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-10-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-10-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-10-18/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-10-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659319/1925101801/0038",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-10-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-10-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-10-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-10-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-10-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-10-25/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-10-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659319/1925102501/0420",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-10-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-10-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-10-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-10-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-10-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-10-04/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-10-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659307/1925100401/0091",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-10-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-10-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-10-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-10-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-10-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-11-01/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-11-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659320/1925110101/0002",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-11-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-11-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-11-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-11-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-11-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1925-11-08/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1925-11-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_ellington_ver02/data/sn83045462/00280659320/1925110801/0408",
+      "url": "https://www.loc.gov/resource/sn83045462/1925-11-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1925-11-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1925-11-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1925-11-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1925-11-08_ed-1_seq-1.txt"
+      }
+    }
+  ]
+}

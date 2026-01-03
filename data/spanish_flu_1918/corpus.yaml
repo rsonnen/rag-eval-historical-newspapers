@@ -1,0 +1,34 @@
+name: "Spanish Flu Pandemic Newspapers (1918-1919)"
+
+corpus_context: >
+  150 digitized newspaper pages from the Library of Congress Chronicling America
+  collection covering the 1918-1919 influenza pandemic. Pages contain contemporary
+  reporting on case counts, public health measures, school and business closures,
+  medical advice, and social impact. Documents reflect period understanding of
+  disease transmission and treatment. Includes variable OCR quality, multi-column
+  layouts, period typography. Source: Library of Congress NDNP.
+
+scenarios:
+  historical_research:
+    name: "Historical Research"
+    description: >
+      You are creating questions for historians researching the 1918 pandemic.
+      Questions should test understanding of how newspapers reported the crisis,
+      what public health measures were described, how communities responded, and
+      what medical knowledge was reflected. Focus on primary source details.
+
+  document_retrieval:
+    name: "Document Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific pandemic-era
+      reporting. Questions should target specific statistics, locations, dates,
+      public health orders, or quotes from officials that appear in the pages.
+      Account for OCR errors in the extracted text.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these pandemic-era
+      newspaper pages. Questions must have specific, verifiable answers - case
+      numbers, closure orders, dates of events, or quoted statements that require
+      the actual document text.

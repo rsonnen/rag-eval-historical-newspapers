@@ -1,0 +1,2710 @@
+{
+  "corpus": "wwi_american",
+  "search_query": "war kaiser germany",
+  "start_date": "1917-01-01",
+  "end_date": "1918-12-31",
+  "state_filter": null,
+  "total_pages": 150,
+  "pages": [
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-1",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0896",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-1.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-1",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0377",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-1.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-2",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 2,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0897",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-2.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-2.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-2.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-2",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 2,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0378",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-2.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-2.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-2.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-3",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 3,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0898",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-3.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-3.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-3.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-3",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 3,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0379",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-3.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-3.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-3.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-4",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 4,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0899",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-4.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-4.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-4.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-4",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 4,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0380",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-4.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-4.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-4.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-5",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 5,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0900",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=5",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-5.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-5.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-5.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-5.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-5",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 5,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0381",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=5",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-5.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-5.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-5.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-5.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-6",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 6,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0901",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=6",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-6.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-6.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-6.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-6.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-6",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 6,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0382",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=6",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-6.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-6.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-6.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-6.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-7",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 7,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0902",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=7",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-7.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-7.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-7.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-7.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-7",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 7,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0383",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=7",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-7.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-7.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-7.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-7.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-8",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 8,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0903",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=8",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-8.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-8.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-8.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-8.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-8",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 8,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0384",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=8",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-8.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-8.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-8.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-8.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-9",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 9,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0904",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=9",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-9.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-9.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-9.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-9.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-9",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 9,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0385",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=9",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-9.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-9.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-9.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-9.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-05-18/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-05-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918051801/0533",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-05-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-05-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-05-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-05-18_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-05-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-05-25/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-05-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918052501/0565",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-05-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-05-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-05-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-05-25_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-05-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-06-01/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-06-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918060101/0597",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-06-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-06-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-06-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-06-01_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-06-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-06-08/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-06-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918060801/0631",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-06-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-06-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-06-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-06-08_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-06-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-06-15/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-06-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918061501/0663",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-06-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-06-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-06-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-06-15_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-06-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-06-22/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-06-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918062201/0695",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-06-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-06-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-06-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-06-22_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-06-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-10-20/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-10-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018739/1917102001/0283",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-10-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-10-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-10-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-10-20_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-10-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-11-03/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-11-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018739/1917110301/0349",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-11-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-11-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-11-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-11-03_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-11-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-11-30/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-11-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018715/1918113001/0599",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-11-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-11-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-11-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-11-30_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-11-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-12-14/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-12-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018715/1918121401/0659",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-12-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-12-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-12-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-12-14_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-12-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-12-21/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-12-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018715/1918122101/0689",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-12-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-12-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-12-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-12-21_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-12-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-06-02/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-06-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018740/1917060201/0365",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-06-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-06-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-06-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-06-02_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-06-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-06-09/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-06-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018740/1917060901/0407",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-06-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-06-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-06-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-06-09_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-06-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-05-26/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-05-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018740/1917052601/0329",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-05-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-05-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-05-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-05-26_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-05-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-11-10/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-11-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018739/1917111001/0383",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-11-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-11-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-11-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-11-10_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-11-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-11-24/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-11-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018739/1917112401/0455",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-11-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-11-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-11-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-11-24_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-11-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-11-17/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-11-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018739/1917111701/0421",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-11-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-11-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-11-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-11-17_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-11-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-12-08/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-12-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018739/1917120801/0525",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-12-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-12-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-12-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-12-08_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-12-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-12-15/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-12-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018739/1917121501/0561",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-12-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-12-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-12-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-12-15_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-12-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-06-30/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-06-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018740/1917063001/0493",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-06-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-06-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-06-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-06-30_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-06-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1917-06-16/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1917-06-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018740/1917061601/0441",
+      "url": "https://www.loc.gov/resource/sn96060771/1917-06-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1917-06-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1917-06-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1917-06-16_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1917-06-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053306/1917-06-29/ed-1/seq-1",
+      "newspaper_title": "the leader enterprise and press (fitzgerald, ben hill county, georgia) 1915-1921",
+      "lccn": "sn89053306",
+      "date": "1917-06-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "fitzgerald",
+      "batch_path": "ndnp/gu/batch_gu_cookie_ver02/data/sn89053306/00517177222/1917062901/0717",
+      "url": "https://www.loc.gov/resource/sn89053306/1917-06-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053306_1917-06-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053306_1917-06-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053306_1917-06-29_ed-1_seq-1.xml",
+        "txt": "pages/sn89053306_1917-06-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86072239/1917-12-24/ed-1/seq-1",
+      "newspaper_title": "the cordova daily times (cordova, alaska) 1914-1947",
+      "lccn": "sn86072239",
+      "date": "1917-12-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "cordova",
+      "batch_path": "ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526612/1917122401/0966",
+      "url": "https://www.loc.gov/resource/sn86072239/1917-12-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86072239_1917-12-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86072239_1917-12-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn86072239_1917-12-24_ed-1_seq-1.xml",
+        "txt": "pages/sn86072239_1917-12-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1917-12-14/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1917-12-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344428/1917121401/1065",
+      "url": "https://www.loc.gov/resource/sn89053204/1917-12-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1917-12-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1917-12-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1917-12-14_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1917-12-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1917-12-16/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1917-12-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344428/1917121601/1075",
+      "url": "https://www.loc.gov/resource/sn89053204/1917-12-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1917-12-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1917-12-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1917-12-16_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1917-12-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1917-12-31/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1917-12-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344428/1917123101/1171",
+      "url": "https://www.loc.gov/resource/sn89053204/1917-12-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1917-12-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1917-12-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1917-12-31_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1917-12-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1917-09-30/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1917-09-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344428/1917093001/0529",
+      "url": "https://www.loc.gov/resource/sn89053204/1917-09-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1917-09-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1917-09-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1917-09-30_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1917-09-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1917-10-07/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1917-10-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344428/1917100701/0579",
+      "url": "https://www.loc.gov/resource/sn89053204/1917-10-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1917-10-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1917-10-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1917-10-07_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1917-10-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1917-10-28/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1917-10-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344428/1917102801/0725",
+      "url": "https://www.loc.gov/resource/sn89053204/1917-10-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1917-10-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1917-10-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1917-10-28_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1917-10-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1917-11-18/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1917-11-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344428/1917111801/0877",
+      "url": "https://www.loc.gov/resource/sn89053204/1917-11-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1917-11-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1917-11-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1917-11-18_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1917-11-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1917-04-01/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1917-04-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344416/1917040101/0501",
+      "url": "https://www.loc.gov/resource/sn89053204/1917-04-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1917-04-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1917-04-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1917-04-01_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1917-04-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1918-03-22/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1918-03-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344434/1918032201/0543",
+      "url": "https://www.loc.gov/resource/sn89053204/1918-03-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1918-03-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1918-03-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1918-03-22_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1918-03-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1918-03-10/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1918-03-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344434/1918031001/0453",
+      "url": "https://www.loc.gov/resource/sn89053204/1918-03-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1918-03-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1918-03-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1918-03-10_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1918-03-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1918-02-17/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1918-02-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344434/1918021701/0307",
+      "url": "https://www.loc.gov/resource/sn89053204/1918-02-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1918-02-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1918-02-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1918-02-17_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1918-02-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86072239/1918-03-30/ed-1/seq-1",
+      "newspaper_title": "the cordova daily times (cordova, alaska) 1914-1947",
+      "lccn": "sn86072239",
+      "date": "1918-03-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "cordova",
+      "batch_path": "ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526624/1918033001/0590",
+      "url": "https://www.loc.gov/resource/sn86072239/1918-03-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86072239_1918-03-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86072239_1918-03-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn86072239_1918-03-30_ed-1_seq-1.xml",
+        "txt": "pages/sn86072239_1918-03-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-09-28/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-09-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917092801/1236",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-09-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-09-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-09-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-09-28_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-09-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-10-05/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-10-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1917100501/0001",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-10-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-10-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-10-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-10-05_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-10-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-12-14/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-12-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1917121401/0099",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-12-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-12-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-12-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-12-14_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-12-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-12-21/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-12-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1917122101/0111",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-12-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-12-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-12-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-12-21_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-12-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-09-27/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-09-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918092701/0487",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-09-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-09-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-09-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-09-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-09-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-10-04/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-10-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918100401/0499",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-10-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-10-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-10-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-10-04_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-10-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-08-30/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-08-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918083001/0449",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-08-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-08-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-08-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-08-30_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-08-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-10-18/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-10-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918101801/0517",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-10-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-10-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-10-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-10-18_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-10-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-09-20/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-09-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918092001/0477",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-09-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-09-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-09-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-09-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-09-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-09-06/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-09-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918090601/0459",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-09-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-09-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-09-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-09-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-09-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-11-01/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-11-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918110101/0537",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-11-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-11-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-11-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-11-01_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-11-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-02-06/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-02-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918020601/0257",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-02-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-02-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-02-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-02-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-02-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-02-20/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-02-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918022001/0289",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-02-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-02-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-02-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-02-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-02-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-02-13/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-02-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918021301/0273",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-02-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-02-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-02-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-02-13_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-02-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-03-20/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-03-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918032001/0353",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-03-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-03-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-03-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-03-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-03-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-11-13/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-11-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918111301/0777",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-11-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-11-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-11-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-11-13_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-11-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1917-10-24/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1917-10-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1917102401/0021",
+      "url": "https://www.loc.gov/resource/sn89053537/1917-10-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1917-10-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1917-10-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1917-10-24_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1917-10-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-02-27/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-02-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918022701/0305",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-02-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-02-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-02-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-02-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-02-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-03-13/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-03-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918031301/0337",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-03-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-03-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-03-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-03-13_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-03-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-03-06/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-03-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918030601/0321",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-03-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-03-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-03-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-03-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-03-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-04-03/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-04-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918040301/0381",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-04-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-04-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-04-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-04-03_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-04-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-03-27/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-03-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918032701/0369",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-03-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-03-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-03-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-03-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-03-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1917-11-14/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1917-11-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1917111401/0069",
+      "url": "https://www.loc.gov/resource/sn89053537/1917-11-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1917-11-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1917-11-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1917-11-14_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1917-11-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1917-12-05/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1917-12-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1917120501/0117",
+      "url": "https://www.loc.gov/resource/sn89053537/1917-12-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1917-12-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1917-12-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1917-12-05_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1917-12-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-01-02/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-01-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918010201/0181",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-01-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-01-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-01-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-01-02_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-01-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-01-09/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-01-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918010901/0197",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-01-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-01-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-01-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-01-09_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-01-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-01-16/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-01-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918011601/0213",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-01-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-01-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-01-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-01-16_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-01-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1917-10-17/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1917-10-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1917101701/0009",
+      "url": "https://www.loc.gov/resource/sn89053537/1917-10-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1917-10-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1917-10-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1917-10-17_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1917-10-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1917-10-31/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1917-10-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1917103101/0037",
+      "url": "https://www.loc.gov/resource/sn89053537/1917-10-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1917-10-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1917-10-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1917-10-31_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1917-10-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1917-11-28/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1917-11-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1917112801/0101",
+      "url": "https://www.loc.gov/resource/sn89053537/1917-11-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1917-11-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1917-11-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1917-11-28_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1917-11-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1917-12-24/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1917-12-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1917122401/0165",
+      "url": "https://www.loc.gov/resource/sn89053537/1917-12-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1917-12-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1917-12-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1917-12-24_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1917-12-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-04-24/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-04-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918042401/0429",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-04-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-04-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-04-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-04-24_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-04-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-05-01/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-05-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918050101/0445",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-05-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-05-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-05-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-05-01_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-05-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-05-08/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-05-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918050801/0461",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-05-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-05-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-05-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-05-08_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-05-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-04-17/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-04-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918041701/0413",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-04-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-04-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-04-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-04-17_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-04-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-10-30/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-10-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918103001/0757",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-10-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-10-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-10-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-10-30_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-10-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-12-04/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-12-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918120401/0807",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-12-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-12-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-12-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-12-04_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-12-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-11-06/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-11-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918110601/0767",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-11-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-11-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-11-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-11-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-11-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-11-27/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-11-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918112701/0797",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-11-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-11-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-11-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-11-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-11-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-10-23/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-10-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918102301/0747",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-10-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-10-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-10-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-10-23_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-10-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-11-20/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-11-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918112001/0787",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-11-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-11-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-11-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-11-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-11-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-12-11/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-12-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918121101/0817",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-12-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-12-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-12-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-12-11_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-12-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-07-06/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-07-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917070601/1116",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-07-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-07-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-07-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-07-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-07-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-08-31/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-08-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917083101/1192",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-08-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-08-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-08-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-08-31_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-08-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-08-24/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-08-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917082401/1182",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-08-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-08-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-08-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-08-24_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-08-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-10-12/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-10-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1917101201/0011",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-10-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-10-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-10-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-10-12_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-10-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-06-08/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-06-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917060801/1074",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-06-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-06-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-06-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-06-08_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-06-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-07-20/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-07-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917072001/1134",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-07-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-07-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-07-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-07-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-07-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-08-17/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-08-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917081701/1170",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-08-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-08-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-08-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-08-17_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-08-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-09-14/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-09-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917091401/1212",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-09-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-09-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-09-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-09-14_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-09-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-09-07/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-09-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917090701/1202",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-09-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-09-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-09-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-09-07_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-09-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-10-19/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-10-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1917101901/0023",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-10-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-10-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-10-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-10-19_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-10-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-02-22/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-02-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918022201/0193",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-02-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-02-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-02-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-02-22_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-02-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-02-15/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-02-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918021501/0183",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-02-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-02-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-02-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-02-15_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-02-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-03-29/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-03-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918032901/0251",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-03-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-03-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-03-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-03-29_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-03-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-03-22/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-03-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918032201/0239",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-03-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-03-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-03-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-03-22_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-03-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-02-01/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-02-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918020101/0163",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-02-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-02-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-02-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-02-01_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-02-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-03-15/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-03-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918031501/0229",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-03-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-03-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-03-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-03-15_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-03-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-04-26/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-04-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918042601/0299",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-04-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-04-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-04-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-04-26_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-04-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-05-03/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-05-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918050301/0311",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-05-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-05-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-05-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-05-03_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-05-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-06-22/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-06-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917062201/1096",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-06-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-06-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-06-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-06-22_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-06-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-06-29/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-06-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917062901/1106",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-06-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-06-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-06-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-06-29_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-06-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-06-15/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-06-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917061501/1086",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-06-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-06-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-06-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-06-15_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-06-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-08-03/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-08-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917080301/1152",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-08-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-08-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-08-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-08-03_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-08-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-09-21/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-09-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917092101/1224",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-09-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-09-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-09-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-09-21_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-09-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-12-07/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-12-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1917120701/0087",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-12-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-12-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-12-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-12-07_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-12-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-11-02/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-11-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1917110201/0043",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-11-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-11-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-11-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-11-02_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-11-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-03-01/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-03-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918030101/0205",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-03-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-03-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-03-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-03-01_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-03-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-03-08/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-03-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918030801/0217",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-03-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-03-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-03-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-03-08_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-03-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-04-05/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-04-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918040501/0263",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-04-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-04-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-04-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-04-05_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-04-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-04-19/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-04-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918041901/0283",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-04-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-04-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-04-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-04-19_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-04-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060004/1917-12-17/ed-1/seq-1",
+      "newspaper_title": "the weekly alaska citizen (fairbanks, alaska) 1917-1920",
+      "lccn": "sn96060004",
+      "date": "1917-12-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "fairbanks",
+      "batch_path": "ndnp/ak/batch_ak_gyrfalcon_ver01/data/sn96060004/00279526284/1917121701/0087",
+      "url": "https://www.loc.gov/resource/sn96060004/1917-12-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060004_1917-12-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060004_1917-12-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060004_1917-12-17_ed-1_seq-1.xml",
+        "txt": "pages/sn96060004_1917-12-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060004/1917-12-24/ed-1/seq-1",
+      "newspaper_title": "the weekly alaska citizen (fairbanks, alaska) 1917-1920",
+      "lccn": "sn96060004",
+      "date": "1917-12-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "fairbanks",
+      "batch_path": "ndnp/ak/batch_ak_gyrfalcon_ver01/data/sn96060004/00279526284/1917122401/0099",
+      "url": "https://www.loc.gov/resource/sn96060004/1917-12-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060004_1917-12-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060004_1917-12-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060004_1917-12-24_ed-1_seq-1.xml",
+        "txt": "pages/sn96060004_1917-12-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060002/1917-09-03/ed-1/seq-1",
+      "newspaper_title": "the alaska citizen (fairbanks, alaska) 1910-1917",
+      "lccn": "sn96060002",
+      "date": "1917-09-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "fairbanks",
+      "batch_path": "ndnp/ak/batch_ak_gyrfalcon_ver01/data/sn96060002/00279526284/1917090301/0287",
+      "url": "https://www.loc.gov/resource/sn96060002/1917-09-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060002_1917-09-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060002_1917-09-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060002_1917-09-03_ed-1_seq-1.xml",
+        "txt": "pages/sn96060002_1917-09-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-01-19/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-01-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917011901/0860",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-01-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-01-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-01-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-01-19_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-01-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-02-02/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-02-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917020201/0880",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-02-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-02-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-02-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-02-02_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-02-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-02-16/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-02-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917021601/0900",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-02-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-02-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-02-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-02-16_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-02-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-02-09/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-02-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917020901/0890",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-02-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-02-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-02-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-02-09_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-02-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-03-02/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-03-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917030201/0922",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-03-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-03-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-03-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-03-02_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-03-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-03-16/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-03-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917031601/0942",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-03-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-03-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-03-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-03-16_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-03-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-04-13/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-04-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917041301/0984",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-04-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-04-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-04-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-04-13_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-04-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-05-25/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-05-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917052501/1054",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-05-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-05-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-05-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-05-25_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-05-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-06-01/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-06-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917060101/1064",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-06-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-06-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-06-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-06-01_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-06-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-02-23/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-02-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917022301/0910",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-02-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-02-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-02-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-02-23_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-02-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-04-06/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-04-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917040601/0974",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-04-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-04-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-04-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-04-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-04-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-03-30/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-03-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917033001/0964",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-03-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-03-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-03-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-03-30_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-03-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-05-04/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-05-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917050401/1020",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-05-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-05-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-05-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-05-04_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-05-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-04-27/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-04-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917042701/1008",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-04-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-04-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-04-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-04-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-04-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-03-23/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-03-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917032301/0952",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-03-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-03-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-03-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-03-23_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-03-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-04-20/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-04-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917042001/0996",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-04-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-04-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-04-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-04-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-04-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-05-11/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-05-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917051101/1032",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-05-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-05-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-05-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-05-11_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-05-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1917-05-18/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1917-05-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177386/1917051801/1044",
+      "url": "https://www.loc.gov/resource/sn89053964/1917-05-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1917-05-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1917-05-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1917-05-18_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1917-05-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053138/1917-05-27/ed-1/seq-1",
+      "newspaper_title": "the cordele dispatch (cordele, georgia) 19??-1920",
+      "lccn": "sn89053138",
+      "date": "1917-05-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "cordele",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053138/00517177428/1917052701/1158",
+      "url": "https://www.loc.gov/resource/sn89053138/1917-05-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053138_1917-05-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053138_1917-05-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053138_1917-05-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053138_1917-05-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053138/1917-05-20/ed-1/seq-1",
+      "newspaper_title": "the cordele dispatch (cordele, georgia) 19??-1920",
+      "lccn": "sn89053138",
+      "date": "1917-05-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "cordele",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053138/00517177428/1917052001/1140",
+      "url": "https://www.loc.gov/resource/sn89053138/1917-05-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053138_1917-05-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053138_1917-05-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053138_1917-05-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053138_1917-05-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053138/1917-05-30/ed-1/seq-1",
+      "newspaper_title": "the cordele dispatch (cordele, georgia) 19??-1920",
+      "lccn": "sn89053138",
+      "date": "1917-05-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "cordele",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053138/00517177428/1917053001/1170",
+      "url": "https://www.loc.gov/resource/sn89053138/1917-05-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053138_1917-05-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053138_1917-05-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053138_1917-05-30_ed-1_seq-1.xml",
+        "txt": "pages/sn89053138_1917-05-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053963/1918-11-22/ed-1/seq-1",
+      "newspaper_title": "the marietta journal (marietta, ga.) 1918-1944",
+      "lccn": "sn89053963",
+      "date": "1918-11-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053963/00517177398/1918112201/0565",
+      "url": "https://www.loc.gov/resource/sn89053963/1918-11-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053963_1918-11-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053963_1918-11-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053963_1918-11-22_ed-1_seq-1.xml",
+        "txt": "pages/sn89053963_1918-11-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053138/1917-04-22/ed-1/seq-1",
+      "newspaper_title": "the cordele dispatch (cordele, georgia) 19??-1920",
+      "lccn": "sn89053138",
+      "date": "1917-04-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "cordele",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053138/00517177428/1917042201/1034",
+      "url": "https://www.loc.gov/resource/sn89053138/1917-04-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053138_1917-04-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053138_1917-04-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053138_1917-04-22_ed-1_seq-1.xml",
+        "txt": "pages/sn89053138_1917-04-22_ed-1_seq-1.txt"
+      }
+    }
+  ]
+}

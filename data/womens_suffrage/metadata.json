@@ -1,0 +1,2566 @@
+{
+  "corpus": "womens_suffrage",
+  "search_query": "suffrage women vote",
+  "start_date": "1910-01-01",
+  "end_date": "1920-12-31",
+  "state_filter": null,
+  "total_pages": 142,
+  "pages": [
+    {
+      "page_id": "sn89053729/1913-06-08/ed-1/seq-1",
+      "newspaper_title": "atlanta georgian (atlanta, ga.) 1912-1939",
+      "lccn": "sn89053729",
+      "date": "1913-06-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_jabbah_ver02/data/sn89053729/00393344003/1913060801/0281",
+      "url": "https://www.loc.gov/resource/sn89053729/1913-06-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053729_1913-06-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053729_1913-06-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053729_1913-06-08_ed-1_seq-1.xml",
+        "txt": "pages/sn89053729_1913-06-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053729/1913-06-15/ed-5/seq-1",
+      "newspaper_title": "atlanta georgian (atlanta, ga.) 1912-1939",
+      "lccn": "sn89053729",
+      "date": "1913-06-15",
+      "edition": 5,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_jabbah_ver02/data/sn89053729/00393344003/1913061505/1003",
+      "url": "https://www.loc.gov/resource/sn89053729/1913-06-15/ed-5/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053729_1913-06-15_ed-5_seq-1.pdf",
+        "jp2": "pages/sn89053729_1913-06-15_ed-5_seq-1.jp2",
+        "xml": "pages/sn89053729_1913-06-15_ed-5_seq-1.xml",
+        "txt": "pages/sn89053729_1913-06-15_ed-5_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1916-12-10/ed-1/seq-1",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1916-12-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_homer_ver01/data/sn96076572/00415669781/1916121001/0422",
+      "url": "https://www.loc.gov/resource/sn96076572/1916-12-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96076572_1916-12-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96076572_1916-12-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn96076572_1916-12-10_ed-1_seq-1.xml",
+        "txt": "pages/sn96076572_1916-12-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1914-12-13/ed-1/seq-1",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1914-12-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_grant_ver01/data/sn96076572/00415669677/1914121301/0034",
+      "url": "https://www.loc.gov/resource/sn96076572/1914-12-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96076572_1914-12-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96076572_1914-12-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn96076572_1914-12-13_ed-1_seq-1.xml",
+        "txt": "pages/sn96076572_1914-12-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1915-12-12/ed-1/seq-1",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1915-12-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_grant_ver01/data/sn96076572/00415669720/1915121201/0564",
+      "url": "https://www.loc.gov/resource/sn96076572/1915-12-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96076572_1915-12-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96076572_1915-12-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn96076572_1915-12-12_ed-1_seq-1.xml",
+        "txt": "pages/sn96076572_1915-12-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn90059959/1914-05-30/ed-1/seq-1",
+      "newspaper_title": "the irish standard (minneapolis, minn. ; st. paul, minn.) 1886-1920",
+      "lccn": "sn90059959",
+      "date": "1914-05-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "minneapolis",
+      "batch_path": "ndnp/mnhi/batch_mnhi_castor_ver01/data/sn90059959/00271760061/1914053001/1010",
+      "url": "https://www.loc.gov/resource/sn90059959/1914-05-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn90059959_1914-05-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn90059959_1914-05-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn90059959_1914-05-30_ed-1_seq-1.xml",
+        "txt": "pages/sn90059959_1914-05-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn90059959/1915-09-01/ed-1/seq-1",
+      "newspaper_title": "the irish standard (minneapolis, minn. ; st. paul, minn.) 1886-1920",
+      "lccn": "sn90059959",
+      "date": "1915-09-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "minneapolis",
+      "batch_path": "ndnp/mnhi/batch_mnhi_jabbah_ver01/data/sn90059959/00199919477/1915090101/0008",
+      "url": "https://www.loc.gov/resource/sn90059959/1915-09-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn90059959_1915-09-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn90059959_1915-09-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn90059959_1915-09-01_ed-1_seq-1.xml",
+        "txt": "pages/sn90059959_1915-09-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85038615/1911-10-01/ed-1/seq-1",
+      "newspaper_title": "the times dispatch (richmond, va.) 1903-1914",
+      "lccn": "sn85038615",
+      "date": "1911-10-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "virginia",
+      "city": "richmond",
+      "batch_path": "ndnp/vi/batch_vi_blue_ver01/data/sn85038615/00175031893/1911100101/0296",
+      "url": "https://www.loc.gov/resource/sn85038615/1911-10-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85038615_1911-10-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85038615_1911-10-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn85038615_1911-10-01_ed-1_seq-1.xml",
+        "txt": "pages/sn85038615_1911-10-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85038615/1912-09-15/ed-1/seq-1",
+      "newspaper_title": "the times dispatch (richmond, va.) 1903-1914",
+      "lccn": "sn85038615",
+      "date": "1912-09-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "virginia",
+      "city": "richmond",
+      "batch_path": "ndnp/vi/batch_vi_denim_ver01/data/sn85038615/00175031947/1912091501/1125",
+      "url": "https://www.loc.gov/resource/sn85038615/1912-09-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85038615_1912-09-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85038615_1912-09-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn85038615_1912-09-15_ed-1_seq-1.xml",
+        "txt": "pages/sn85038615_1912-09-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn95060770/1920-11-20/ed-1/seq-1",
+      "newspaper_title": "douglas daily international (douglas, ariz.) 1913-1925",
+      "lccn": "sn95060770",
+      "date": "1920-11-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "douglas",
+      "batch_path": "ndnp/az/batch_az_hematite_ver01/data/sn95060770/00542866457/1920112001/0235",
+      "url": "https://www.loc.gov/resource/sn95060770/1920-11-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn95060770_1920-11-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn95060770_1920-11-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn95060770_1920-11-20_ed-1_seq-1.xml",
+        "txt": "pages/sn95060770_1920-11-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1912-01-07/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1912-01-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "sgp/sgpbatches/batch_dlc_osage_ver01/data/sn83030313/print1912/1912010701/0133",
+      "url": "https://www.loc.gov/resource/sn83030313/1912-01-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1912-01-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1912-01-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1912-01-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1912-01-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1912-01-14/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1912-01-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "sgp/sgpbatches/batch_dlc_osage_ver01/data/sn83030313/print1912/1912011401/0385",
+      "url": "https://www.loc.gov/resource/sn83030313/1912-01-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1912-01-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1912-01-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1912-01-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1912-01-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1913-06-08/ed-1/seq-1",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1913-06-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_menze_ver01/data/sn83030214/00206531666/1913060801/0175",
+      "url": "https://www.loc.gov/resource/sn83030214/1913-06-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030214_1913-06-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030214_1913-06-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030214_1913-06-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83030214_1913-06-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1920-05-02/ed-1/seq-1",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1920-05-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_fogler_ver01/data/sn83030214/00206532518/1920050201/0027",
+      "url": "https://www.loc.gov/resource/sn83030214/1920-05-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030214_1920-05-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030214_1920-05-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030214_1920-05-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83030214_1920-05-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1914-06-07/ed-1/seq-1",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1914-06-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_olson_ver01/data/sn83030214/00206531782/1914060701/0115",
+      "url": "https://www.loc.gov/resource/sn83030214/1914-06-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030214_1914-06-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030214_1914-06-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030214_1914-06-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030214_1914-06-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1920-01-04/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1920-01-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474502/1920010401/0064",
+      "url": "https://www.loc.gov/resource/sn83030431/1920-01-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030431_1920-01-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030431_1920-01-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030431_1920-01-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83030431_1920-01-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0023",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0691",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85038485/1913-06-18/ed-1/seq-1",
+      "newspaper_title": "the birmingham age-herald (birmingham, ala.) 1902-1950",
+      "lccn": "sn85038485",
+      "date": "1913-06-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alabama",
+      "city": "birmingham",
+      "batch_path": "ndnp/au/batch_au_inman_ver01/data/sn85038485/0034058367A/1913061801/0896",
+      "url": "https://www.loc.gov/resource/sn85038485/1913-06-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85038485_1913-06-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85038485_1913-06-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn85038485_1913-06-18_ed-1_seq-1.xml",
+        "txt": "pages/sn85038485_1913-06-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-04-27/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-04-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/0020653994A/1913042701/0645",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-04-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030272_1913-04-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030272_1913-04-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030272_1913-04-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83030272_1913-04-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-15/ed-1/seq-1",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920021501/0459",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030273_1920-02-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030273_1920-02-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83030273_1920-02-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0945",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-01/ed-1/seq-1",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920020101/0008",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030273_1920-02-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030273_1920-02-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030273_1920-02-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-08/ed-1/seq-1",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920020801/0249",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030273_1920-02-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030273_1920-02-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83030273_1920-02-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-04-13/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-04-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/0020653994A/1913041301/0273",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-04-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030272_1913-04-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030272_1913-04-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030272_1913-04-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83030272_1913-04-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-03-16/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-03-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/00206539938/1913031601/0714",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-03-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030272_1913-03-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030272_1913-03-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030272_1913-03-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030272_1913-03-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1916-08-27/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1916-08-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_hardin_ver01/data/sn83030431/00280766069/1916082701/0196",
+      "url": "https://www.loc.gov/resource/sn83030431/1916-08-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030431_1916-08-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030431_1916-08-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030431_1916-08-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83030431_1916-08-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn99021999/1912-10-20/ed-1/seq-1",
+      "newspaper_title": "omaha daily bee (omaha [neb.]) 187?-1922",
+      "lccn": "sn99021999",
+      "date": "1912-10-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "nebraska",
+      "city": "omaha",
+      "batch_path": "ndnp/nbu/batch_nbu_beardtongue_ver01/data/sn99021999/00212470545/1912102001/1144",
+      "url": "https://www.loc.gov/resource/sn99021999/1912-10-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn99021999_1912-10-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn99021999_1912-10-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn99021999_1912-10-20_ed-1_seq-1.xml",
+        "txt": "pages/sn99021999_1912-10-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84020645/1916-04-27/ed-2/seq-1",
+      "newspaper_title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+      "lccn": "sn84020645",
+      "date": "1916-04-27",
+      "edition": 2,
+      "sequence": 1,
+      "state": "alabama",
+      "city": "montgomery",
+      "batch_path": "ndnp/au/batch_au_dickerson_ver01/data/sn84020645/00517017103/1916042702/0871",
+      "url": "https://www.loc.gov/resource/sn84020645/1916-04-27/ed-2/?sp=1",
+      "files": {
+        "pdf": "pages/sn84020645_1916-04-27_ed-2_seq-1.pdf",
+        "jp2": "pages/sn84020645_1916-04-27_ed-2_seq-1.jp2",
+        "xml": "pages/sn84020645_1916-04-27_ed-2_seq-1.xml",
+        "txt": "pages/sn84020645_1916-04-27_ed-2_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045555/1910-12-17/ed-2/seq-1",
+      "newspaper_title": "deseret evening news (great salt lake city [utah]) 1867-1920",
+      "lccn": "sn83045555",
+      "date": "1910-12-17",
+      "edition": 2,
+      "sequence": 1,
+      "state": "utah",
+      "city": "salt lake city",
+      "batch_path": "ndnp/uuml/batch_uuml_thirteen_ver01/data/sn83045555/00175048571/1910121702/1025",
+      "url": "https://www.loc.gov/resource/sn83045555/1910-12-17/ed-2/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045555_1910-12-17_ed-2_seq-1.pdf",
+        "jp2": "pages/sn83045555_1910-12-17_ed-2_seq-1.jp2",
+        "xml": "pages/sn83045555_1910-12-17_ed-2_seq-1.xml",
+        "txt": "pages/sn83045555_1910-12-17_ed-2_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83025316/1912-12-15/ed-1/seq-1",
+      "newspaper_title": "the daily missoulian (missoula, mont.) 1904-1961",
+      "lccn": "sn83025316",
+      "date": "1912-12-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "montana",
+      "city": "missoula",
+      "batch_path": "ndnp/mthi/batch_mthi_indianpaintbrush_ver01/data/sn83025316/00212476754/1912121501/1231",
+      "url": "https://www.loc.gov/resource/sn83025316/1912-12-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83025316_1912-12-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83025316_1912-12-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83025316_1912-12-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83025316_1912-12-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-1",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0675",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-1.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85042344/1913-08-31/ed-1/seq-1",
+      "newspaper_title": "tulsa daily world (tulsa, indian territory [okla.]) 1905-1919",
+      "lccn": "sn85042344",
+      "date": "1913-08-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_bokchito_ver01/data/sn85042344/00237284598/1913083101/0506",
+      "url": "https://www.loc.gov/resource/sn85042344/1913-08-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85042344_1913-08-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85042344_1913-08-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn85042344_1913-08-31_ed-1_seq-1.xml",
+        "txt": "pages/sn85042344_1913-08-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1920-02-29/ed-1/seq-1",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1920-02-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_hughes_ver01/data/sn85042345/00237284641/1920022901/1136",
+      "url": "https://www.loc.gov/resource/sn85042345/1920-02-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85042345_1920-02-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85042345_1920-02-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn85042345_1920-02-29_ed-1_seq-1.xml",
+        "txt": "pages/sn85042345_1920-02-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-1",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0896",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-1.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-1",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0377",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-1.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85042462/1910-02-20/ed-1/seq-1",
+      "newspaper_title": "los angeles herald (los angeles [calif.]) 1900-1911 [microfilm reel]",
+      "lccn": "sn85042462",
+      "date": "1910-02-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "los angeles",
+      "batch_path": "ndnp/curiv/batch_curiv_rubidoux_ver01/data/sn85042462/00175035837/1910022001/1117",
+      "url": "https://www.loc.gov/resource/sn85042462/1910-02-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85042462_1910-02-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85042462_1910-02-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn85042462_1910-02-20_ed-1_seq-1.xml",
+        "txt": "pages/sn85042462_1910-02-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1912-03-10/ed-1/seq-1",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1912-03-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_angwin_ver02/data/sn85066387/00280768297/1912031001/0235",
+      "url": "https://www.loc.gov/resource/sn85066387/1912-03-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85066387_1912-03-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85066387_1912-03-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn85066387_1912-03-10_ed-1_seq-1.xml",
+        "txt": "pages/sn85066387_1912-03-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1913-02-23/ed-1/seq-1",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1913-02-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elderwood_ver02/data/sn85066387/00280768522/1913022301/0217",
+      "url": "https://www.loc.gov/resource/sn85066387/1913-02-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85066387_1913-02-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85066387_1913-02-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn85066387_1913-02-23_ed-1_seq-1.xml",
+        "txt": "pages/sn85066387_1913-02-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1913-07-06/ed-1/seq-1",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1913-07-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elderwood_ver02/data/sn85066387/00280768613/1913070601/0113",
+      "url": "https://www.loc.gov/resource/sn85066387/1913-07-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85066387_1913-07-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85066387_1913-07-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn85066387_1913-07-06_ed-1_seq-1.xml",
+        "txt": "pages/sn85066387_1913-07-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1910-04-09/ed-1/seq-1",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1910-04-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_duckweed_ver02/data/sn85066408/00271767067/1910040901/0014",
+      "url": "https://www.loc.gov/resource/sn85066408/1910-04-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85066408_1910-04-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85066408_1910-04-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn85066408_1910-04-09_ed-1_seq-1.xml",
+        "txt": "pages/sn85066408_1910-04-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1914-02-14/ed-1/seq-1",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1914-02-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elodia_ver01/data/sn85066408/00271767146/1914021401/0006",
+      "url": "https://www.loc.gov/resource/sn85066408/1914-02-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85066408_1914-02-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85066408_1914-02-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn85066408_1914-02-14_ed-1_seq-1.xml",
+        "txt": "pages/sn85066408_1914-02-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1912-03-02/ed-1/seq-1",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1912-03-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elodia_ver01/data/sn85066408/00271767109/1912030201/0006",
+      "url": "https://www.loc.gov/resource/sn85066408/1912-03-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85066408_1912-03-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85066408_1912-03-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn85066408_1912-03-02_ed-1_seq-1.xml",
+        "txt": "pages/sn85066408_1912-03-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1911-01-01/ed-1/seq-1",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1911-01-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_duckweed_ver02/data/sn85066408/00271767080/1911010101/0006",
+      "url": "https://www.loc.gov/resource/sn85066408/1911-01-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85066408_1911-01-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85066408_1911-01-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn85066408_1911-01-01_ed-1_seq-1.xml",
+        "txt": "pages/sn85066408_1911-01-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1915-07-31/ed-1/seq-1",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1915-07-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_fiddleneck_ver01/data/sn85066408/00271767183/1915073101/0564",
+      "url": "https://www.loc.gov/resource/sn85066408/1915-07-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85066408_1915-07-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85066408_1915-07-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn85066408_1915-07-31_ed-1_seq-1.xml",
+        "txt": "pages/sn85066408_1915-07-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn88043117/1915-12-24/ed-1/seq-1",
+      "newspaper_title": "przewodnik katolicki (new britain, conn.) 1907-1966",
+      "lccn": "sn88043117",
+      "date": "1915-12-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "connecticut",
+      "city": "new britain",
+      "batch_path": "ndnp/ct/batch_ct_fiddlehead_ver01/data/sn88043117/00516994952/1915122401/1707",
+      "url": "https://www.loc.gov/resource/sn88043117/1915-12-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn88043117_1915-12-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn88043117_1915-12-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn88043117_1915-12-24_ed-1_seq-1.xml",
+        "txt": "pages/sn88043117_1915-12-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053729/1913-06-08/ed-1/seq-2",
+      "newspaper_title": "atlanta georgian (atlanta, ga.) 1912-1939",
+      "lccn": "sn89053729",
+      "date": "1913-06-08",
+      "edition": 1,
+      "sequence": 2,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_jabbah_ver02/data/sn89053729/00393344003/1913060801/0282",
+      "url": "https://www.loc.gov/resource/sn89053729/1913-06-08/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn89053729_1913-06-08_ed-1_seq-2.pdf",
+        "jp2": "pages/sn89053729_1913-06-08_ed-1_seq-2.jp2",
+        "xml": "pages/sn89053729_1913-06-08_ed-1_seq-2.xml",
+        "txt": "pages/sn89053729_1913-06-08_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn89053729/1913-06-15/ed-5/seq-2",
+      "newspaper_title": "atlanta georgian (atlanta, ga.) 1912-1939",
+      "lccn": "sn89053729",
+      "date": "1913-06-15",
+      "edition": 5,
+      "sequence": 2,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_jabbah_ver02/data/sn89053729/00393344003/1913061505/1004",
+      "url": "https://www.loc.gov/resource/sn89053729/1913-06-15/ed-5/?sp=2",
+      "files": {
+        "pdf": "pages/sn89053729_1913-06-15_ed-5_seq-2.pdf",
+        "jp2": "pages/sn89053729_1913-06-15_ed-5_seq-2.jp2",
+        "xml": "pages/sn89053729_1913-06-15_ed-5_seq-2.xml",
+        "txt": "pages/sn89053729_1913-06-15_ed-5_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1916-12-10/ed-1/seq-2",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1916-12-10",
+      "edition": 1,
+      "sequence": 2,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_homer_ver01/data/sn96076572/00415669781/1916121001/0423",
+      "url": "https://www.loc.gov/resource/sn96076572/1916-12-10/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn96076572_1916-12-10_ed-1_seq-2.pdf",
+        "jp2": "pages/sn96076572_1916-12-10_ed-1_seq-2.jp2",
+        "xml": "pages/sn96076572_1916-12-10_ed-1_seq-2.xml",
+        "txt": "pages/sn96076572_1916-12-10_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1914-12-13/ed-1/seq-2",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1914-12-13",
+      "edition": 1,
+      "sequence": 2,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_grant_ver01/data/sn96076572/00415669677/1914121301/0035",
+      "url": "https://www.loc.gov/resource/sn96076572/1914-12-13/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn96076572_1914-12-13_ed-1_seq-2.pdf",
+        "jp2": "pages/sn96076572_1914-12-13_ed-1_seq-2.jp2",
+        "xml": "pages/sn96076572_1914-12-13_ed-1_seq-2.xml",
+        "txt": "pages/sn96076572_1914-12-13_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1915-12-12/ed-1/seq-2",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1915-12-12",
+      "edition": 1,
+      "sequence": 2,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_grant_ver01/data/sn96076572/00415669720/1915121201/0565",
+      "url": "https://www.loc.gov/resource/sn96076572/1915-12-12/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn96076572_1915-12-12_ed-1_seq-2.pdf",
+        "jp2": "pages/sn96076572_1915-12-12_ed-1_seq-2.jp2",
+        "xml": "pages/sn96076572_1915-12-12_ed-1_seq-2.xml",
+        "txt": "pages/sn96076572_1915-12-12_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn90059959/1914-05-30/ed-1/seq-2",
+      "newspaper_title": "the irish standard (minneapolis, minn. ; st. paul, minn.) 1886-1920",
+      "lccn": "sn90059959",
+      "date": "1914-05-30",
+      "edition": 1,
+      "sequence": 2,
+      "state": "minnesota",
+      "city": "minneapolis",
+      "batch_path": "ndnp/mnhi/batch_mnhi_castor_ver01/data/sn90059959/00271760061/1914053001/1011",
+      "url": "https://www.loc.gov/resource/sn90059959/1914-05-30/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn90059959_1914-05-30_ed-1_seq-2.pdf",
+        "jp2": "pages/sn90059959_1914-05-30_ed-1_seq-2.jp2",
+        "xml": "pages/sn90059959_1914-05-30_ed-1_seq-2.xml",
+        "txt": "pages/sn90059959_1914-05-30_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn90059959/1915-09-01/ed-1/seq-2",
+      "newspaper_title": "the irish standard (minneapolis, minn. ; st. paul, minn.) 1886-1920",
+      "lccn": "sn90059959",
+      "date": "1915-09-01",
+      "edition": 1,
+      "sequence": 2,
+      "state": "minnesota",
+      "city": "minneapolis",
+      "batch_path": "ndnp/mnhi/batch_mnhi_jabbah_ver01/data/sn90059959/00199919477/1915090101/0009",
+      "url": "https://www.loc.gov/resource/sn90059959/1915-09-01/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn90059959_1915-09-01_ed-1_seq-2.pdf",
+        "jp2": "pages/sn90059959_1915-09-01_ed-1_seq-2.jp2",
+        "xml": "pages/sn90059959_1915-09-01_ed-1_seq-2.xml",
+        "txt": "pages/sn90059959_1915-09-01_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85038615/1911-10-01/ed-1/seq-2",
+      "newspaper_title": "the times dispatch (richmond, va.) 1903-1914",
+      "lccn": "sn85038615",
+      "date": "1911-10-01",
+      "edition": 1,
+      "sequence": 2,
+      "state": "virginia",
+      "city": "richmond",
+      "batch_path": "ndnp/vi/batch_vi_blue_ver01/data/sn85038615/00175031893/1911100101/0297",
+      "url": "https://www.loc.gov/resource/sn85038615/1911-10-01/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85038615_1911-10-01_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85038615_1911-10-01_ed-1_seq-2.jp2",
+        "xml": "pages/sn85038615_1911-10-01_ed-1_seq-2.xml",
+        "txt": "pages/sn85038615_1911-10-01_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85038615/1912-09-15/ed-1/seq-2",
+      "newspaper_title": "the times dispatch (richmond, va.) 1903-1914",
+      "lccn": "sn85038615",
+      "date": "1912-09-15",
+      "edition": 1,
+      "sequence": 2,
+      "state": "virginia",
+      "city": "richmond",
+      "batch_path": "ndnp/vi/batch_vi_denim_ver01/data/sn85038615/00175031947/1912091501/1126",
+      "url": "https://www.loc.gov/resource/sn85038615/1912-09-15/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85038615_1912-09-15_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85038615_1912-09-15_ed-1_seq-2.jp2",
+        "xml": "pages/sn85038615_1912-09-15_ed-1_seq-2.xml",
+        "txt": "pages/sn85038615_1912-09-15_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn95060770/1920-11-20/ed-1/seq-2",
+      "newspaper_title": "douglas daily international (douglas, ariz.) 1913-1925",
+      "lccn": "sn95060770",
+      "date": "1920-11-20",
+      "edition": 1,
+      "sequence": 2,
+      "state": "arizona",
+      "city": "douglas",
+      "batch_path": "ndnp/az/batch_az_hematite_ver01/data/sn95060770/00542866457/1920112001/0236",
+      "url": "https://www.loc.gov/resource/sn95060770/1920-11-20/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn95060770_1920-11-20_ed-1_seq-2.pdf",
+        "jp2": "pages/sn95060770_1920-11-20_ed-1_seq-2.jp2",
+        "xml": "pages/sn95060770_1920-11-20_ed-1_seq-2.xml",
+        "txt": "pages/sn95060770_1920-11-20_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1912-01-07/ed-1/seq-2",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1912-01-07",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "sgp/sgpbatches/batch_dlc_osage_ver01/data/sn83030313/print1912/1912010701/0134",
+      "url": "https://www.loc.gov/resource/sn83030313/1912-01-07/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030313_1912-01-07_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030313_1912-01-07_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030313_1912-01-07_ed-1_seq-2.xml",
+        "txt": "pages/sn83030313_1912-01-07_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1912-01-14/ed-1/seq-2",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1912-01-14",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "sgp/sgpbatches/batch_dlc_osage_ver01/data/sn83030313/print1912/1912011401/0386",
+      "url": "https://www.loc.gov/resource/sn83030313/1912-01-14/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030313_1912-01-14_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030313_1912-01-14_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030313_1912-01-14_ed-1_seq-2.xml",
+        "txt": "pages/sn83030313_1912-01-14_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1913-06-08/ed-1/seq-2",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1913-06-08",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_menze_ver01/data/sn83030214/00206531666/1913060801/0176",
+      "url": "https://www.loc.gov/resource/sn83030214/1913-06-08/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030214_1913-06-08_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030214_1913-06-08_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030214_1913-06-08_ed-1_seq-2.xml",
+        "txt": "pages/sn83030214_1913-06-08_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1920-05-02/ed-1/seq-2",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1920-05-02",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_fogler_ver01/data/sn83030214/00206532518/1920050201/0028",
+      "url": "https://www.loc.gov/resource/sn83030214/1920-05-02/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030214_1920-05-02_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030214_1920-05-02_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030214_1920-05-02_ed-1_seq-2.xml",
+        "txt": "pages/sn83030214_1920-05-02_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1914-06-07/ed-1/seq-2",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1914-06-07",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_olson_ver01/data/sn83030214/00206531782/1914060701/0116",
+      "url": "https://www.loc.gov/resource/sn83030214/1914-06-07/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030214_1914-06-07_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030214_1914-06-07_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030214_1914-06-07_ed-1_seq-2.xml",
+        "txt": "pages/sn83030214_1914-06-07_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1920-01-04/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1920-01-04",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474502/1920010401/0065",
+      "url": "https://www.loc.gov/resource/sn83030431/1920-01-04/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030431_1920-01-04_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030431_1920-01-04_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030431_1920-01-04_ed-1_seq-2.xml",
+        "txt": "pages/sn83030431_1920-01-04_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0024",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-2.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0692",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-2.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85038485/1913-06-18/ed-1/seq-2",
+      "newspaper_title": "the birmingham age-herald (birmingham, ala.) 1902-1950",
+      "lccn": "sn85038485",
+      "date": "1913-06-18",
+      "edition": 1,
+      "sequence": 2,
+      "state": "alabama",
+      "city": "birmingham",
+      "batch_path": "ndnp/au/batch_au_inman_ver01/data/sn85038485/0034058367A/1913061801/0897",
+      "url": "https://www.loc.gov/resource/sn85038485/1913-06-18/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85038485_1913-06-18_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85038485_1913-06-18_ed-1_seq-2.jp2",
+        "xml": "pages/sn85038485_1913-06-18_ed-1_seq-2.xml",
+        "txt": "pages/sn85038485_1913-06-18_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-04-27/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-04-27",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/0020653994A/1913042701/0646",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-04-27/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030272_1913-04-27_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030272_1913-04-27_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030272_1913-04-27_ed-1_seq-2.xml",
+        "txt": "pages/sn83030272_1913-04-27_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0946",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-2.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-01/ed-1/seq-2",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-01",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920020101/0009",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-01/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-01_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030273_1920-02-01_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030273_1920-02-01_ed-1_seq-2.xml",
+        "txt": "pages/sn83030273_1920-02-01_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-08/ed-1/seq-2",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-08",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920020801/0250",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-08/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-08_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030273_1920-02-08_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030273_1920-02-08_ed-1_seq-2.xml",
+        "txt": "pages/sn83030273_1920-02-08_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-15/ed-1/seq-2",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-15",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920021501/0460",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-15/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-15_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030273_1920-02-15_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030273_1920-02-15_ed-1_seq-2.xml",
+        "txt": "pages/sn83030273_1920-02-15_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-04-13/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-04-13",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/0020653994A/1913041301/0274",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-04-13/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030272_1913-04-13_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030272_1913-04-13_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030272_1913-04-13_ed-1_seq-2.xml",
+        "txt": "pages/sn83030272_1913-04-13_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-03-16/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-03-16",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/00206539938/1913031601/0715",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-03-16/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030272_1913-03-16_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030272_1913-03-16_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030272_1913-03-16_ed-1_seq-2.xml",
+        "txt": "pages/sn83030272_1913-03-16_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1916-08-27/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1916-08-27",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_hardin_ver01/data/sn83030431/00280766069/1916082701/0197",
+      "url": "https://www.loc.gov/resource/sn83030431/1916-08-27/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030431_1916-08-27_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030431_1916-08-27_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030431_1916-08-27_ed-1_seq-2.xml",
+        "txt": "pages/sn83030431_1916-08-27_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn99021999/1912-10-20/ed-1/seq-2",
+      "newspaper_title": "omaha daily bee (omaha [neb.]) 187?-1922",
+      "lccn": "sn99021999",
+      "date": "1912-10-20",
+      "edition": 1,
+      "sequence": 2,
+      "state": "nebraska",
+      "city": "omaha",
+      "batch_path": "ndnp/nbu/batch_nbu_beardtongue_ver01/data/sn99021999/00212470545/1912102001/1145",
+      "url": "https://www.loc.gov/resource/sn99021999/1912-10-20/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn99021999_1912-10-20_ed-1_seq-2.pdf",
+        "jp2": "pages/sn99021999_1912-10-20_ed-1_seq-2.jp2",
+        "xml": "pages/sn99021999_1912-10-20_ed-1_seq-2.xml",
+        "txt": "pages/sn99021999_1912-10-20_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn84020645/1916-04-27/ed-2/seq-2",
+      "newspaper_title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+      "lccn": "sn84020645",
+      "date": "1916-04-27",
+      "edition": 2,
+      "sequence": 2,
+      "state": "alabama",
+      "city": "montgomery",
+      "batch_path": "ndnp/au/batch_au_dickerson_ver01/data/sn84020645/00517017103/1916042702/0872",
+      "url": "https://www.loc.gov/resource/sn84020645/1916-04-27/ed-2/?sp=2",
+      "files": {
+        "pdf": "pages/sn84020645_1916-04-27_ed-2_seq-2.pdf",
+        "jp2": "pages/sn84020645_1916-04-27_ed-2_seq-2.jp2",
+        "xml": "pages/sn84020645_1916-04-27_ed-2_seq-2.xml",
+        "txt": "pages/sn84020645_1916-04-27_ed-2_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83045555/1910-12-17/ed-2/seq-2",
+      "newspaper_title": "deseret evening news (great salt lake city [utah]) 1867-1920",
+      "lccn": "sn83045555",
+      "date": "1910-12-17",
+      "edition": 2,
+      "sequence": 2,
+      "state": "utah",
+      "city": "salt lake city",
+      "batch_path": "ndnp/uuml/batch_uuml_thirteen_ver01/data/sn83045555/00175048571/1910121702/1026",
+      "url": "https://www.loc.gov/resource/sn83045555/1910-12-17/ed-2/?sp=2",
+      "files": {
+        "pdf": "pages/sn83045555_1910-12-17_ed-2_seq-2.pdf",
+        "jp2": "pages/sn83045555_1910-12-17_ed-2_seq-2.jp2",
+        "xml": "pages/sn83045555_1910-12-17_ed-2_seq-2.xml",
+        "txt": "pages/sn83045555_1910-12-17_ed-2_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83025316/1912-12-15/ed-1/seq-2",
+      "newspaper_title": "the daily missoulian (missoula, mont.) 1904-1961",
+      "lccn": "sn83025316",
+      "date": "1912-12-15",
+      "edition": 1,
+      "sequence": 2,
+      "state": "montana",
+      "city": "missoula",
+      "batch_path": "ndnp/mthi/batch_mthi_indianpaintbrush_ver01/data/sn83025316/00212476754/1912121501/1232",
+      "url": "https://www.loc.gov/resource/sn83025316/1912-12-15/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83025316_1912-12-15_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83025316_1912-12-15_ed-1_seq-2.jp2",
+        "xml": "pages/sn83025316_1912-12-15_ed-1_seq-2.xml",
+        "txt": "pages/sn83025316_1912-12-15_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-2",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 2,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0676",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-2.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-2.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85042344/1913-08-31/ed-1/seq-2",
+      "newspaper_title": "tulsa daily world (tulsa, indian territory [okla.]) 1905-1919",
+      "lccn": "sn85042344",
+      "date": "1913-08-31",
+      "edition": 1,
+      "sequence": 2,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_bokchito_ver01/data/sn85042344/00237284598/1913083101/0507",
+      "url": "https://www.loc.gov/resource/sn85042344/1913-08-31/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85042344_1913-08-31_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85042344_1913-08-31_ed-1_seq-2.jp2",
+        "xml": "pages/sn85042344_1913-08-31_ed-1_seq-2.xml",
+        "txt": "pages/sn85042344_1913-08-31_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1920-02-29/ed-1/seq-2",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1920-02-29",
+      "edition": 1,
+      "sequence": 2,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_hughes_ver01/data/sn85042345/00237284641/1920022901/1137",
+      "url": "https://www.loc.gov/resource/sn85042345/1920-02-29/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85042345_1920-02-29_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85042345_1920-02-29_ed-1_seq-2.jp2",
+        "xml": "pages/sn85042345_1920-02-29_ed-1_seq-2.xml",
+        "txt": "pages/sn85042345_1920-02-29_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-2",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 2,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0897",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-2.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-2.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-2.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-2",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 2,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0378",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-2.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-2.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-2.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85042462/1910-02-20/ed-1/seq-2",
+      "newspaper_title": "los angeles herald (los angeles [calif.]) 1900-1911 [microfilm reel]",
+      "lccn": "sn85042462",
+      "date": "1910-02-20",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "los angeles",
+      "batch_path": "ndnp/curiv/batch_curiv_rubidoux_ver01/data/sn85042462/00175035837/1910022001/1118",
+      "url": "https://www.loc.gov/resource/sn85042462/1910-02-20/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85042462_1910-02-20_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85042462_1910-02-20_ed-1_seq-2.jp2",
+        "xml": "pages/sn85042462_1910-02-20_ed-1_seq-2.xml",
+        "txt": "pages/sn85042462_1910-02-20_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1912-03-10/ed-1/seq-2",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1912-03-10",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_angwin_ver02/data/sn85066387/00280768297/1912031001/0236",
+      "url": "https://www.loc.gov/resource/sn85066387/1912-03-10/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85066387_1912-03-10_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85066387_1912-03-10_ed-1_seq-2.jp2",
+        "xml": "pages/sn85066387_1912-03-10_ed-1_seq-2.xml",
+        "txt": "pages/sn85066387_1912-03-10_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1913-02-23/ed-1/seq-2",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1913-02-23",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elderwood_ver02/data/sn85066387/00280768522/1913022301/0218",
+      "url": "https://www.loc.gov/resource/sn85066387/1913-02-23/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85066387_1913-02-23_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85066387_1913-02-23_ed-1_seq-2.jp2",
+        "xml": "pages/sn85066387_1913-02-23_ed-1_seq-2.xml",
+        "txt": "pages/sn85066387_1913-02-23_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1913-07-06/ed-1/seq-2",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1913-07-06",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elderwood_ver02/data/sn85066387/00280768613/1913070601/0114",
+      "url": "https://www.loc.gov/resource/sn85066387/1913-07-06/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85066387_1913-07-06_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85066387_1913-07-06_ed-1_seq-2.jp2",
+        "xml": "pages/sn85066387_1913-07-06_ed-1_seq-2.xml",
+        "txt": "pages/sn85066387_1913-07-06_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1910-04-09/ed-1/seq-2",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1910-04-09",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_duckweed_ver02/data/sn85066408/00271767067/1910040901/0015",
+      "url": "https://www.loc.gov/resource/sn85066408/1910-04-09/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85066408_1910-04-09_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85066408_1910-04-09_ed-1_seq-2.jp2",
+        "xml": "pages/sn85066408_1910-04-09_ed-1_seq-2.xml",
+        "txt": "pages/sn85066408_1910-04-09_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1914-02-14/ed-1/seq-2",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1914-02-14",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elodia_ver01/data/sn85066408/00271767146/1914021401/0007",
+      "url": "https://www.loc.gov/resource/sn85066408/1914-02-14/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85066408_1914-02-14_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85066408_1914-02-14_ed-1_seq-2.jp2",
+        "xml": "pages/sn85066408_1914-02-14_ed-1_seq-2.xml",
+        "txt": "pages/sn85066408_1914-02-14_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1912-03-02/ed-1/seq-2",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1912-03-02",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elodia_ver01/data/sn85066408/00271767109/1912030201/0007",
+      "url": "https://www.loc.gov/resource/sn85066408/1912-03-02/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85066408_1912-03-02_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85066408_1912-03-02_ed-1_seq-2.jp2",
+        "xml": "pages/sn85066408_1912-03-02_ed-1_seq-2.xml",
+        "txt": "pages/sn85066408_1912-03-02_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1911-01-01/ed-1/seq-2",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1911-01-01",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_duckweed_ver02/data/sn85066408/00271767080/1911010101/0007",
+      "url": "https://www.loc.gov/resource/sn85066408/1911-01-01/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85066408_1911-01-01_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85066408_1911-01-01_ed-1_seq-2.jp2",
+        "xml": "pages/sn85066408_1911-01-01_ed-1_seq-2.xml",
+        "txt": "pages/sn85066408_1911-01-01_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1915-07-31/ed-1/seq-2",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1915-07-31",
+      "edition": 1,
+      "sequence": 2,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_fiddleneck_ver01/data/sn85066408/00271767183/1915073101/0565",
+      "url": "https://www.loc.gov/resource/sn85066408/1915-07-31/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85066408_1915-07-31_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85066408_1915-07-31_ed-1_seq-2.jp2",
+        "xml": "pages/sn85066408_1915-07-31_ed-1_seq-2.xml",
+        "txt": "pages/sn85066408_1915-07-31_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn88043117/1915-12-24/ed-1/seq-2",
+      "newspaper_title": "przewodnik katolicki (new britain, conn.) 1907-1966",
+      "lccn": "sn88043117",
+      "date": "1915-12-24",
+      "edition": 1,
+      "sequence": 2,
+      "state": "connecticut",
+      "city": "new britain",
+      "batch_path": "ndnp/ct/batch_ct_fiddlehead_ver01/data/sn88043117/00516994952/1915122401/1708",
+      "url": "https://www.loc.gov/resource/sn88043117/1915-12-24/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn88043117_1915-12-24_ed-1_seq-2.pdf",
+        "jp2": "pages/sn88043117_1915-12-24_ed-1_seq-2.jp2",
+        "xml": "pages/sn88043117_1915-12-24_ed-1_seq-2.xml",
+        "txt": "pages/sn88043117_1915-12-24_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn89053729/1913-06-08/ed-1/seq-3",
+      "newspaper_title": "atlanta georgian (atlanta, ga.) 1912-1939",
+      "lccn": "sn89053729",
+      "date": "1913-06-08",
+      "edition": 1,
+      "sequence": 3,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_jabbah_ver02/data/sn89053729/00393344003/1913060801/0283",
+      "url": "https://www.loc.gov/resource/sn89053729/1913-06-08/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn89053729_1913-06-08_ed-1_seq-3.pdf",
+        "jp2": "pages/sn89053729_1913-06-08_ed-1_seq-3.jp2",
+        "xml": "pages/sn89053729_1913-06-08_ed-1_seq-3.xml",
+        "txt": "pages/sn89053729_1913-06-08_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn89053729/1913-06-15/ed-5/seq-3",
+      "newspaper_title": "atlanta georgian (atlanta, ga.) 1912-1939",
+      "lccn": "sn89053729",
+      "date": "1913-06-15",
+      "edition": 5,
+      "sequence": 3,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_jabbah_ver02/data/sn89053729/00393344003/1913061505/1005",
+      "url": "https://www.loc.gov/resource/sn89053729/1913-06-15/ed-5/?sp=3",
+      "files": {
+        "pdf": "pages/sn89053729_1913-06-15_ed-5_seq-3.pdf",
+        "jp2": "pages/sn89053729_1913-06-15_ed-5_seq-3.jp2",
+        "xml": "pages/sn89053729_1913-06-15_ed-5_seq-3.xml",
+        "txt": "pages/sn89053729_1913-06-15_ed-5_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1916-12-10/ed-1/seq-3",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1916-12-10",
+      "edition": 1,
+      "sequence": 3,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_homer_ver01/data/sn96076572/00415669781/1916121001/0424",
+      "url": "https://www.loc.gov/resource/sn96076572/1916-12-10/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn96076572_1916-12-10_ed-1_seq-3.pdf",
+        "jp2": "pages/sn96076572_1916-12-10_ed-1_seq-3.jp2",
+        "xml": "pages/sn96076572_1916-12-10_ed-1_seq-3.xml",
+        "txt": "pages/sn96076572_1916-12-10_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1914-12-13/ed-1/seq-3",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1914-12-13",
+      "edition": 1,
+      "sequence": 3,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_grant_ver01/data/sn96076572/00415669677/1914121301/0036",
+      "url": "https://www.loc.gov/resource/sn96076572/1914-12-13/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn96076572_1914-12-13_ed-1_seq-3.pdf",
+        "jp2": "pages/sn96076572_1914-12-13_ed-1_seq-3.jp2",
+        "xml": "pages/sn96076572_1914-12-13_ed-1_seq-3.xml",
+        "txt": "pages/sn96076572_1914-12-13_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1915-12-12/ed-1/seq-3",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1915-12-12",
+      "edition": 1,
+      "sequence": 3,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_grant_ver01/data/sn96076572/00415669720/1915121201/0566",
+      "url": "https://www.loc.gov/resource/sn96076572/1915-12-12/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn96076572_1915-12-12_ed-1_seq-3.pdf",
+        "jp2": "pages/sn96076572_1915-12-12_ed-1_seq-3.jp2",
+        "xml": "pages/sn96076572_1915-12-12_ed-1_seq-3.xml",
+        "txt": "pages/sn96076572_1915-12-12_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn90059959/1914-05-30/ed-1/seq-3",
+      "newspaper_title": "the irish standard (minneapolis, minn. ; st. paul, minn.) 1886-1920",
+      "lccn": "sn90059959",
+      "date": "1914-05-30",
+      "edition": 1,
+      "sequence": 3,
+      "state": "minnesota",
+      "city": "minneapolis",
+      "batch_path": "ndnp/mnhi/batch_mnhi_castor_ver01/data/sn90059959/00271760061/1914053001/1012",
+      "url": "https://www.loc.gov/resource/sn90059959/1914-05-30/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn90059959_1914-05-30_ed-1_seq-3.pdf",
+        "jp2": "pages/sn90059959_1914-05-30_ed-1_seq-3.jp2",
+        "xml": "pages/sn90059959_1914-05-30_ed-1_seq-3.xml",
+        "txt": "pages/sn90059959_1914-05-30_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn90059959/1915-09-01/ed-1/seq-3",
+      "newspaper_title": "the irish standard (minneapolis, minn. ; st. paul, minn.) 1886-1920",
+      "lccn": "sn90059959",
+      "date": "1915-09-01",
+      "edition": 1,
+      "sequence": 3,
+      "state": "minnesota",
+      "city": "minneapolis",
+      "batch_path": "ndnp/mnhi/batch_mnhi_jabbah_ver01/data/sn90059959/00199919477/1915090101/0010",
+      "url": "https://www.loc.gov/resource/sn90059959/1915-09-01/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn90059959_1915-09-01_ed-1_seq-3.pdf",
+        "jp2": "pages/sn90059959_1915-09-01_ed-1_seq-3.jp2",
+        "xml": "pages/sn90059959_1915-09-01_ed-1_seq-3.xml",
+        "txt": "pages/sn90059959_1915-09-01_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85038615/1911-10-01/ed-1/seq-3",
+      "newspaper_title": "the times dispatch (richmond, va.) 1903-1914",
+      "lccn": "sn85038615",
+      "date": "1911-10-01",
+      "edition": 1,
+      "sequence": 3,
+      "state": "virginia",
+      "city": "richmond",
+      "batch_path": "ndnp/vi/batch_vi_blue_ver01/data/sn85038615/00175031893/1911100101/0298",
+      "url": "https://www.loc.gov/resource/sn85038615/1911-10-01/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85038615_1911-10-01_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85038615_1911-10-01_ed-1_seq-3.jp2",
+        "xml": "pages/sn85038615_1911-10-01_ed-1_seq-3.xml",
+        "txt": "pages/sn85038615_1911-10-01_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85038615/1912-09-15/ed-1/seq-3",
+      "newspaper_title": "the times dispatch (richmond, va.) 1903-1914",
+      "lccn": "sn85038615",
+      "date": "1912-09-15",
+      "edition": 1,
+      "sequence": 3,
+      "state": "virginia",
+      "city": "richmond",
+      "batch_path": "ndnp/vi/batch_vi_denim_ver01/data/sn85038615/00175031947/1912091501/1127",
+      "url": "https://www.loc.gov/resource/sn85038615/1912-09-15/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85038615_1912-09-15_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85038615_1912-09-15_ed-1_seq-3.jp2",
+        "xml": "pages/sn85038615_1912-09-15_ed-1_seq-3.xml",
+        "txt": "pages/sn85038615_1912-09-15_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn95060770/1920-11-20/ed-1/seq-3",
+      "newspaper_title": "douglas daily international (douglas, ariz.) 1913-1925",
+      "lccn": "sn95060770",
+      "date": "1920-11-20",
+      "edition": 1,
+      "sequence": 3,
+      "state": "arizona",
+      "city": "douglas",
+      "batch_path": "ndnp/az/batch_az_hematite_ver01/data/sn95060770/00542866457/1920112001/0237",
+      "url": "https://www.loc.gov/resource/sn95060770/1920-11-20/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn95060770_1920-11-20_ed-1_seq-3.pdf",
+        "jp2": "pages/sn95060770_1920-11-20_ed-1_seq-3.jp2",
+        "xml": "pages/sn95060770_1920-11-20_ed-1_seq-3.xml",
+        "txt": "pages/sn95060770_1920-11-20_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1912-01-07/ed-1/seq-3",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1912-01-07",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "sgp/sgpbatches/batch_dlc_osage_ver01/data/sn83030313/print1912/1912010701/0135",
+      "url": "https://www.loc.gov/resource/sn83030313/1912-01-07/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030313_1912-01-07_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030313_1912-01-07_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030313_1912-01-07_ed-1_seq-3.xml",
+        "txt": "pages/sn83030313_1912-01-07_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1912-01-14/ed-1/seq-3",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1912-01-14",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "sgp/sgpbatches/batch_dlc_osage_ver01/data/sn83030313/print1912/1912011401/0387",
+      "url": "https://www.loc.gov/resource/sn83030313/1912-01-14/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030313_1912-01-14_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030313_1912-01-14_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030313_1912-01-14_ed-1_seq-3.xml",
+        "txt": "pages/sn83030313_1912-01-14_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1920-01-04/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1920-01-04",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474502/1920010401/0066",
+      "url": "https://www.loc.gov/resource/sn83030431/1920-01-04/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030431_1920-01-04_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030431_1920-01-04_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030431_1920-01-04_ed-1_seq-3.xml",
+        "txt": "pages/sn83030431_1920-01-04_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0025",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-3.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0693",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-3.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85038485/1913-06-18/ed-1/seq-3",
+      "newspaper_title": "the birmingham age-herald (birmingham, ala.) 1902-1950",
+      "lccn": "sn85038485",
+      "date": "1913-06-18",
+      "edition": 1,
+      "sequence": 3,
+      "state": "alabama",
+      "city": "birmingham",
+      "batch_path": "ndnp/au/batch_au_inman_ver01/data/sn85038485/0034058367A/1913061801/0898",
+      "url": "https://www.loc.gov/resource/sn85038485/1913-06-18/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85038485_1913-06-18_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85038485_1913-06-18_ed-1_seq-3.jp2",
+        "xml": "pages/sn85038485_1913-06-18_ed-1_seq-3.xml",
+        "txt": "pages/sn85038485_1913-06-18_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-04-27/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-04-27",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/0020653994A/1913042701/0647",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-04-27/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030272_1913-04-27_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030272_1913-04-27_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030272_1913-04-27_ed-1_seq-3.xml",
+        "txt": "pages/sn83030272_1913-04-27_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0947",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-3.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-01/ed-1/seq-3",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-01",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920020101/0010",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-01/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-01_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030273_1920-02-01_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030273_1920-02-01_ed-1_seq-3.xml",
+        "txt": "pages/sn83030273_1920-02-01_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-08/ed-1/seq-3",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-08",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920020801/0251",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-08/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-08_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030273_1920-02-08_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030273_1920-02-08_ed-1_seq-3.xml",
+        "txt": "pages/sn83030273_1920-02-08_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030273/1920-02-15/ed-1/seq-3",
+      "newspaper_title": "the sun and the new york herald (new york [n.y.]) 1920-1920",
+      "lccn": "sn83030273",
+      "date": "1920-02-15",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030273/00212474514/1920021501/0461",
+      "url": "https://www.loc.gov/resource/sn83030273/1920-02-15/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030273_1920-02-15_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030273_1920-02-15_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030273_1920-02-15_ed-1_seq-3.xml",
+        "txt": "pages/sn83030273_1920-02-15_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-04-13/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-04-13",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/0020653994A/1913041301/0275",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-04-13/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030272_1913-04-13_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030272_1913-04-13_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030272_1913-04-13_ed-1_seq-3.xml",
+        "txt": "pages/sn83030272_1913-04-13_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030272/1913-03-16/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1833-1916",
+      "lccn": "sn83030272",
+      "date": "1913-03-16",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_ehrlich_ver02/data/sn83030272/00206539938/1913031601/0716",
+      "url": "https://www.loc.gov/resource/sn83030272/1913-03-16/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030272_1913-03-16_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030272_1913-03-16_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030272_1913-03-16_ed-1_seq-3.xml",
+        "txt": "pages/sn83030272_1913-03-16_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1916-08-27/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1916-08-27",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_hardin_ver01/data/sn83030431/00280766069/1916082701/0198",
+      "url": "https://www.loc.gov/resource/sn83030431/1916-08-27/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030431_1916-08-27_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030431_1916-08-27_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030431_1916-08-27_ed-1_seq-3.xml",
+        "txt": "pages/sn83030431_1916-08-27_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn99021999/1912-10-20/ed-1/seq-3",
+      "newspaper_title": "omaha daily bee (omaha [neb.]) 187?-1922",
+      "lccn": "sn99021999",
+      "date": "1912-10-20",
+      "edition": 1,
+      "sequence": 3,
+      "state": "nebraska",
+      "city": "omaha",
+      "batch_path": "ndnp/nbu/batch_nbu_beardtongue_ver01/data/sn99021999/00212470545/1912102001/1146",
+      "url": "https://www.loc.gov/resource/sn99021999/1912-10-20/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn99021999_1912-10-20_ed-1_seq-3.pdf",
+        "jp2": "pages/sn99021999_1912-10-20_ed-1_seq-3.jp2",
+        "xml": "pages/sn99021999_1912-10-20_ed-1_seq-3.xml",
+        "txt": "pages/sn99021999_1912-10-20_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn84020645/1916-04-27/ed-2/seq-3",
+      "newspaper_title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+      "lccn": "sn84020645",
+      "date": "1916-04-27",
+      "edition": 2,
+      "sequence": 3,
+      "state": "alabama",
+      "city": "montgomery",
+      "batch_path": "ndnp/au/batch_au_dickerson_ver01/data/sn84020645/00517017103/1916042702/0873",
+      "url": "https://www.loc.gov/resource/sn84020645/1916-04-27/ed-2/?sp=3",
+      "files": {
+        "pdf": "pages/sn84020645_1916-04-27_ed-2_seq-3.pdf",
+        "jp2": "pages/sn84020645_1916-04-27_ed-2_seq-3.jp2",
+        "xml": "pages/sn84020645_1916-04-27_ed-2_seq-3.xml",
+        "txt": "pages/sn84020645_1916-04-27_ed-2_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn90051903/1917-08-04/ed-1/seq-3",
+      "newspaper_title": "denver labor bulletin (denver, colo.) 1915-19??",
+      "lccn": "sn90051903",
+      "date": "1917-08-04",
+      "edition": 1,
+      "sequence": 3,
+      "state": "colorado",
+      "city": "denver",
+      "batch_path": "ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585653/1917080401/0379",
+      "url": "https://www.loc.gov/resource/sn90051903/1917-08-04/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn90051903_1917-08-04_ed-1_seq-3.pdf",
+        "jp2": "pages/sn90051903_1917-08-04_ed-1_seq-3.jp2",
+        "xml": "pages/sn90051903_1917-08-04_ed-1_seq-3.xml",
+        "txt": "pages/sn90051903_1917-08-04_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85042462/1910-02-20/ed-1/seq-3",
+      "newspaper_title": "los angeles herald (los angeles [calif.]) 1900-1911 [microfilm reel]",
+      "lccn": "sn85042462",
+      "date": "1910-02-20",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "los angeles",
+      "batch_path": "ndnp/curiv/batch_curiv_rubidoux_ver01/data/sn85042462/00175035837/1910022001/1119",
+      "url": "https://www.loc.gov/resource/sn85042462/1910-02-20/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85042462_1910-02-20_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85042462_1910-02-20_ed-1_seq-3.jp2",
+        "xml": "pages/sn85042462_1910-02-20_ed-1_seq-3.xml",
+        "txt": "pages/sn85042462_1910-02-20_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1912-03-10/ed-1/seq-3",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1912-03-10",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_angwin_ver02/data/sn85066387/00280768297/1912031001/0237",
+      "url": "https://www.loc.gov/resource/sn85066387/1912-03-10/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85066387_1912-03-10_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85066387_1912-03-10_ed-1_seq-3.jp2",
+        "xml": "pages/sn85066387_1912-03-10_ed-1_seq-3.xml",
+        "txt": "pages/sn85066387_1912-03-10_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1913-02-23/ed-1/seq-3",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1913-02-23",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elderwood_ver02/data/sn85066387/00280768522/1913022301/0219",
+      "url": "https://www.loc.gov/resource/sn85066387/1913-02-23/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85066387_1913-02-23_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85066387_1913-02-23_ed-1_seq-3.jp2",
+        "xml": "pages/sn85066387_1913-02-23_ed-1_seq-3.xml",
+        "txt": "pages/sn85066387_1913-02-23_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85066387/1913-07-06/ed-1/seq-3",
+      "newspaper_title": "the san francisco call (san francisco [calif.]) 1895-1913",
+      "lccn": "sn85066387",
+      "date": "1913-07-06",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elderwood_ver02/data/sn85066387/00280768613/1913070601/0115",
+      "url": "https://www.loc.gov/resource/sn85066387/1913-07-06/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85066387_1913-07-06_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85066387_1913-07-06_ed-1_seq-3.jp2",
+        "xml": "pages/sn85066387_1913-07-06_ed-1_seq-3.xml",
+        "txt": "pages/sn85066387_1913-07-06_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1910-04-09/ed-1/seq-3",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1910-04-09",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_duckweed_ver02/data/sn85066408/00271767067/1910040901/0016",
+      "url": "https://www.loc.gov/resource/sn85066408/1910-04-09/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85066408_1910-04-09_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85066408_1910-04-09_ed-1_seq-3.jp2",
+        "xml": "pages/sn85066408_1910-04-09_ed-1_seq-3.xml",
+        "txt": "pages/sn85066408_1910-04-09_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1914-02-14/ed-1/seq-3",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1914-02-14",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elodia_ver01/data/sn85066408/00271767146/1914021401/0008",
+      "url": "https://www.loc.gov/resource/sn85066408/1914-02-14/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85066408_1914-02-14_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85066408_1914-02-14_ed-1_seq-3.jp2",
+        "xml": "pages/sn85066408_1914-02-14_ed-1_seq-3.xml",
+        "txt": "pages/sn85066408_1914-02-14_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1912-03-02/ed-1/seq-3",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1912-03-02",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_elodia_ver01/data/sn85066408/00271767109/1912030201/0008",
+      "url": "https://www.loc.gov/resource/sn85066408/1912-03-02/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85066408_1912-03-02_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85066408_1912-03-02_ed-1_seq-3.jp2",
+        "xml": "pages/sn85066408_1912-03-02_ed-1_seq-3.xml",
+        "txt": "pages/sn85066408_1912-03-02_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1911-01-01/ed-1/seq-3",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1911-01-01",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_duckweed_ver02/data/sn85066408/00271767080/1911010101/0008",
+      "url": "https://www.loc.gov/resource/sn85066408/1911-01-01/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85066408_1911-01-01_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85066408_1911-01-01_ed-1_seq-3.jp2",
+        "xml": "pages/sn85066408_1911-01-01_ed-1_seq-3.xml",
+        "txt": "pages/sn85066408_1911-01-01_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85066408/1915-07-31/ed-1/seq-3",
+      "newspaper_title": "l'italia (san francisco, calif.) 1887-1943",
+      "lccn": "sn85066408",
+      "date": "1915-07-31",
+      "edition": 1,
+      "sequence": 3,
+      "state": "california",
+      "city": "san francisco",
+      "batch_path": "ndnp/curiv/batch_curiv_fiddleneck_ver01/data/sn85066408/00271767183/1915073101/0566",
+      "url": "https://www.loc.gov/resource/sn85066408/1915-07-31/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85066408_1915-07-31_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85066408_1915-07-31_ed-1_seq-3.jp2",
+        "xml": "pages/sn85066408_1915-07-31_ed-1_seq-3.xml",
+        "txt": "pages/sn85066408_1915-07-31_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn88043117/1915-12-24/ed-1/seq-3",
+      "newspaper_title": "przewodnik katolicki (new britain, conn.) 1907-1966",
+      "lccn": "sn88043117",
+      "date": "1915-12-24",
+      "edition": 1,
+      "sequence": 3,
+      "state": "connecticut",
+      "city": "new britain",
+      "batch_path": "ndnp/ct/batch_ct_fiddlehead_ver01/data/sn88043117/00516994952/1915122401/1709",
+      "url": "https://www.loc.gov/resource/sn88043117/1915-12-24/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn88043117_1915-12-24_ed-1_seq-3.pdf",
+        "jp2": "pages/sn88043117_1915-12-24_ed-1_seq-3.jp2",
+        "xml": "pages/sn88043117_1915-12-24_ed-1_seq-3.xml",
+        "txt": "pages/sn88043117_1915-12-24_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83025316/1912-12-15/ed-1/seq-3",
+      "newspaper_title": "the daily missoulian (missoula, mont.) 1904-1961",
+      "lccn": "sn83025316",
+      "date": "1912-12-15",
+      "edition": 1,
+      "sequence": 3,
+      "state": "montana",
+      "city": "missoula",
+      "batch_path": "ndnp/mthi/batch_mthi_indianpaintbrush_ver01/data/sn83025316/00212476754/1912121501/1233",
+      "url": "https://www.loc.gov/resource/sn83025316/1912-12-15/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83025316_1912-12-15_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83025316_1912-12-15_ed-1_seq-3.jp2",
+        "xml": "pages/sn83025316_1912-12-15_ed-1_seq-3.xml",
+        "txt": "pages/sn83025316_1912-12-15_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1913-06-08/ed-1/seq-4",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1913-06-08",
+      "edition": 1,
+      "sequence": 4,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_menze_ver01/data/sn83030214/00206531666/1913060801/0178",
+      "url": "https://www.loc.gov/resource/sn83030214/1913-06-08/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn83030214_1913-06-08_ed-1_seq-4.pdf",
+        "jp2": "pages/sn83030214_1913-06-08_ed-1_seq-4.jp2",
+        "xml": "pages/sn83030214_1913-06-08_ed-1_seq-4.xml",
+        "txt": "pages/sn83030214_1913-06-08_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1920-05-02/ed-1/seq-4",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1920-05-02",
+      "edition": 1,
+      "sequence": 4,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_fogler_ver01/data/sn83030214/00206532518/1920050201/0030",
+      "url": "https://www.loc.gov/resource/sn83030214/1920-05-02/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn83030214_1920-05-02_ed-1_seq-4.pdf",
+        "jp2": "pages/sn83030214_1920-05-02_ed-1_seq-4.jp2",
+        "xml": "pages/sn83030214_1920-05-02_ed-1_seq-4.xml",
+        "txt": "pages/sn83030214_1920-05-02_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn83030214/1914-06-07/ed-1/seq-4",
+      "newspaper_title": "new-york tribune (new york [n.y.]) 1866-1924",
+      "lccn": "sn83030214",
+      "date": "1914-06-07",
+      "edition": 1,
+      "sequence": 4,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_olson_ver01/data/sn83030214/00206531782/1914060701/0118",
+      "url": "https://www.loc.gov/resource/sn83030214/1914-06-07/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn83030214_1914-06-07_ed-1_seq-4.pdf",
+        "jp2": "pages/sn83030214_1914-06-07_ed-1_seq-4.jp2",
+        "xml": "pages/sn83030214_1914-06-07_ed-1_seq-4.xml",
+        "txt": "pages/sn83030214_1914-06-07_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-4",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 4,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0678",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-4.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-4.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-4.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1920-02-29/ed-1/seq-4",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1920-02-29",
+      "edition": 1,
+      "sequence": 4,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_hughes_ver01/data/sn85042345/00237284641/1920022901/1139",
+      "url": "https://www.loc.gov/resource/sn85042345/1920-02-29/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn85042345_1920-02-29_ed-1_seq-4.pdf",
+        "jp2": "pages/sn85042345_1920-02-29_ed-1_seq-4.jp2",
+        "xml": "pages/sn85042345_1920-02-29_ed-1_seq-4.xml",
+        "txt": "pages/sn85042345_1920-02-29_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn85042344/1913-08-31/ed-1/seq-4",
+      "newspaper_title": "tulsa daily world (tulsa, indian territory [okla.]) 1905-1919",
+      "lccn": "sn85042344",
+      "date": "1913-08-31",
+      "edition": 1,
+      "sequence": 4,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_bokchito_ver01/data/sn85042344/00237284598/1913083101/0509",
+      "url": "https://www.loc.gov/resource/sn85042344/1913-08-31/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn85042344_1913-08-31_ed-1_seq-4.pdf",
+        "jp2": "pages/sn85042344_1913-08-31_ed-1_seq-4.jp2",
+        "xml": "pages/sn85042344_1913-08-31_ed-1_seq-4.xml",
+        "txt": "pages/sn85042344_1913-08-31_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn86064187/1917-09-26/ed-1/seq-4",
+      "newspaper_title": "the oklahoma city times (oklahoma city, okla.) 1908-1984",
+      "lccn": "sn86064187",
+      "date": "1917-09-26",
+      "edition": 1,
+      "sequence": 4,
+      "state": "oklahoma",
+      "city": "oklahoma city",
+      "batch_path": "ndnp/okhi/batch_okhi_inola_ver02/data/sn86064187/00200295274/1917092601/0899",
+      "url": "https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn86064187_1917-09-26_ed-1_seq-4.pdf",
+        "jp2": "pages/sn86064187_1917-09-26_ed-1_seq-4.jp2",
+        "xml": "pages/sn86064187_1917-09-26_ed-1_seq-4.xml",
+        "txt": "pages/sn86064187_1917-09-26_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn83045555/1910-12-17/ed-2/seq-4",
+      "newspaper_title": "deseret evening news (great salt lake city [utah]) 1867-1920",
+      "lccn": "sn83045555",
+      "date": "1910-12-17",
+      "edition": 2,
+      "sequence": 4,
+      "state": "utah",
+      "city": "salt lake city",
+      "batch_path": "ndnp/uuml/batch_uuml_thirteen_ver01/data/sn83045555/00175048571/1910121702/1028",
+      "url": "https://www.loc.gov/resource/sn83045555/1910-12-17/ed-2/?sp=4",
+      "files": {
+        "pdf": "pages/sn83045555_1910-12-17_ed-2_seq-4.pdf",
+        "jp2": "pages/sn83045555_1910-12-17_ed-2_seq-4.jp2",
+        "xml": "pages/sn83045555_1910-12-17_ed-2_seq-4.xml",
+        "txt": "pages/sn83045555_1910-12-17_ed-2_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn89053729/1913-06-08/ed-1/seq-4",
+      "newspaper_title": "atlanta georgian (atlanta, ga.) 1912-1939",
+      "lccn": "sn89053729",
+      "date": "1913-06-08",
+      "edition": 1,
+      "sequence": 4,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_jabbah_ver02/data/sn89053729/00393344003/1913060801/0284",
+      "url": "https://www.loc.gov/resource/sn89053729/1913-06-08/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn89053729_1913-06-08_ed-1_seq-4.pdf",
+        "jp2": "pages/sn89053729_1913-06-08_ed-1_seq-4.jp2",
+        "xml": "pages/sn89053729_1913-06-08_ed-1_seq-4.xml",
+        "txt": "pages/sn89053729_1913-06-08_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn89053729/1913-06-15/ed-5/seq-4",
+      "newspaper_title": "atlanta georgian (atlanta, ga.) 1912-1939",
+      "lccn": "sn89053729",
+      "date": "1913-06-15",
+      "edition": 5,
+      "sequence": 4,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_jabbah_ver02/data/sn89053729/00393344003/1913061505/1006",
+      "url": "https://www.loc.gov/resource/sn89053729/1913-06-15/ed-5/?sp=4",
+      "files": {
+        "pdf": "pages/sn89053729_1913-06-15_ed-5_seq-4.pdf",
+        "jp2": "pages/sn89053729_1913-06-15_ed-5_seq-4.jp2",
+        "xml": "pages/sn89053729_1913-06-15_ed-5_seq-4.xml",
+        "txt": "pages/sn89053729_1913-06-15_ed-5_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1916-12-10/ed-1/seq-4",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1916-12-10",
+      "edition": 1,
+      "sequence": 4,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_homer_ver01/data/sn96076572/00415669781/1916121001/0425",
+      "url": "https://www.loc.gov/resource/sn96076572/1916-12-10/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn96076572_1916-12-10_ed-1_seq-4.pdf",
+        "jp2": "pages/sn96076572_1916-12-10_ed-1_seq-4.jp2",
+        "xml": "pages/sn96076572_1916-12-10_ed-1_seq-4.xml",
+        "txt": "pages/sn96076572_1916-12-10_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn96076572/1914-12-13/ed-1/seq-4",
+      "newspaper_title": "detroiter abend-post (detroit [mich.]) 18??-19??",
+      "lccn": "sn96076572",
+      "date": "1914-12-13",
+      "edition": 1,
+      "sequence": 4,
+      "state": "michigan",
+      "city": "detroit",
+      "batch_path": "ndnp/mimtptc/batch_mimtptc_grant_ver01/data/sn96076572/00415669677/1914121301/0037",
+      "url": "https://www.loc.gov/resource/sn96076572/1914-12-13/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn96076572_1914-12-13_ed-1_seq-4.pdf",
+        "jp2": "pages/sn96076572_1914-12-13_ed-1_seq-4.jp2",
+        "xml": "pages/sn96076572_1914-12-13_ed-1_seq-4.xml",
+        "txt": "pages/sn96076572_1914-12-13_ed-1_seq-4.txt"
+      }
+    }
+  ]
+}

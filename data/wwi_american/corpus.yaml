@@ -1,0 +1,34 @@
+name: "World War I American Newspapers (1917-1918)"
+
+corpus_context: >
+  150 digitized newspaper pages from the Library of Congress Chronicling America
+  collection covering American involvement in World War I, from US entry (April
+  1917) through the armistice (November 1918). Pages contain war reporting,
+  casualty lists, draft notices, Liberty Bond drives, and homefront news.
+  Documents include propaganda-era language and period perspectives. Variable
+  OCR quality, multi-column layouts. Source: Library of Congress NDNP.
+
+scenarios:
+  historical_research:
+    name: "Historical Research"
+    description: >
+      You are creating questions for historians researching American WWI
+      experience. Questions should test understanding of how newspapers covered
+      the war, what domestic mobilization looked like, how casualties were
+      reported, and what propaganda or patriotic messaging appeared. Focus on
+      primary source content.
+
+  document_retrieval:
+    name: "Document Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific WWI-era news
+      items. Questions should target battle reports, casualty names, draft
+      notices, Liberty Bond information, or specific wartime events as reported.
+      Account for OCR errors in the extracted text.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these WWI-era
+      newspaper pages. Questions must have specific, verifiable answers - dates,
+      names, locations, or quoted headlines that require the actual text.

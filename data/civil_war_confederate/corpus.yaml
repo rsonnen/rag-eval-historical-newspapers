@@ -1,0 +1,34 @@
+name: "Civil War Confederate Newspapers (1861-1865)"
+
+corpus_context: >
+  150 digitized newspaper pages from Southern states during the American Civil
+  War (1861-1865). From the Library of Congress Chronicling America collection.
+  Pages contain Confederate perspective on the war, battle reports, political
+  news supporting secession, and homefront conditions. Documents feature
+  mid-19th century typography and Southern political language. Significant OCR
+  challenges due to age. Source: Library of Congress NDNP.
+
+scenarios:
+  historical_research:
+    name: "Historical Research"
+    description: >
+      You are creating questions for historians researching the Confederate
+      homefront during the Civil War. Questions should test understanding of
+      how Southern newspapers reported battles, framed the conflict, covered
+      political leadership, and addressed wartime conditions. Focus on primary
+      source perspectives without modern judgment.
+
+  document_retrieval:
+    name: "Document Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific Civil War-era
+      content from Southern newspapers. Questions should target battle reports,
+      political news, economic conditions, or specific events as reported in
+      the Confederacy. Account for significant OCR errors.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system read these Confederate
+      newspapers. Questions must have specific, verifiable answers despite OCR
+      challenges. Target clearly legible content that requires the actual text.

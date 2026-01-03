@@ -1,0 +1,2710 @@
+{
+  "corpus": "spanish_flu_1918",
+  "search_query": "influenza epidemic",
+  "start_date": "1918-01-01",
+  "end_date": "1919-12-31",
+  "state_filter": null,
+  "total_pages": 150,
+  "pages": [
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0023",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0691",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-1",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0945",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-1",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0675",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-1.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0024",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-2.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0692",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-2.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-2",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 2,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0946",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-2.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-2.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-2.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-2",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 2,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0676",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=2",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-2.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-2.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-2.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-2.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0025",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-3.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0693",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-3.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-3",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 3,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0947",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-3.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-3.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-3.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-3",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 3,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0677",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=3",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-3.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-3.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-3.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-3.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-4",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 4,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0026",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-4.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-4.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-4.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-4",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 4,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0694",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-4.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-4.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-4.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-4",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 4,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0948",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-4.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-4.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-4.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-4",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 4,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0678",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=4",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-4.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-4.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-4.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-4.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-5",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 5,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0027",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=5",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-5.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-5.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-5.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-5.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-5",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 5,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0695",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=5",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-5.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-5.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-5.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-5.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-5",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 5,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0949",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=5",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-5.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-5.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-5.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-5.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-5",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 5,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0679",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=5",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-5.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-5.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-5.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-5.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-6",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 6,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0028",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=6",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-6.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-6.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-6.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-6.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-6",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 6,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0696",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=6",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-6.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-6.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-6.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-6.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-6",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 6,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0950",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=6",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-6.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-6.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-6.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-6.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-6",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 6,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0680",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=6",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-6.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-6.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-6.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-6.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-7",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 7,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0029",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=7",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-7.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-7.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-7.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-7.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-7",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 7,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0697",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=7",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-7.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-7.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-7.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-7.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-7",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 7,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0951",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=7",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-7.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-7.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-7.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-7.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-7",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 7,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0681",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=7",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-7.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-7.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-7.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-7.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-8",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 8,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0030",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=8",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-8.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-8.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-8.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-8.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-8",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 8,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0698",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=8",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-8.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-8.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-8.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-8.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-8",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 8,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0952",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=8",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-8.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-8.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-8.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-8.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-8",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 8,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0682",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=8",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-8.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-8.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-8.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-8.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-12-07/ed-1/seq-9",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-12-07",
+      "edition": 1,
+      "sequence": 9,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474496/1919120701/0031",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-12-07/ed-1/?sp=9",
+      "files": {
+        "pdf": "pages/sn83030431_1919-12-07_ed-1_seq-9.pdf",
+        "jp2": "pages/sn83030431_1919-12-07_ed-1_seq-9.jp2",
+        "xml": "pages/sn83030431_1919-12-07_ed-1_seq-9.xml",
+        "txt": "pages/sn83030431_1919-12-07_ed-1_seq-9.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-11-30/ed-1/seq-9",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-11-30",
+      "edition": 1,
+      "sequence": 9,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_quarterman_ver03/data/sn83030431/00212474484/1919113001/0699",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-11-30/ed-1/?sp=9",
+      "files": {
+        "pdf": "pages/sn83030431_1919-11-30_ed-1_seq-9.pdf",
+        "jp2": "pages/sn83030431_1919-11-30_ed-1_seq-9.jp2",
+        "xml": "pages/sn83030431_1919-11-30_ed-1_seq-9.xml",
+        "txt": "pages/sn83030431_1919-11-30_ed-1_seq-9.txt"
+      }
+    },
+    {
+      "page_id": "sn83030431/1919-10-05/ed-1/seq-9",
+      "newspaper_title": "the sun (new york [n.y.]) 1916-1920",
+      "lccn": "sn83030431",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 9,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00212474460/1919100501/0953",
+      "url": "https://www.loc.gov/resource/sn83030431/1919-10-05/ed-1/?sp=9",
+      "files": {
+        "pdf": "pages/sn83030431_1919-10-05_ed-1_seq-9.pdf",
+        "jp2": "pages/sn83030431_1919-10-05_ed-1_seq-9.jp2",
+        "xml": "pages/sn83030431_1919-10-05_ed-1_seq-9.xml",
+        "txt": "pages/sn83030431_1919-10-05_ed-1_seq-9.txt"
+      }
+    },
+    {
+      "page_id": "sn85042345/1919-05-25/ed-1/seq-9",
+      "newspaper_title": "the morning tulsa daily world (tulsa, okla.) 1919-1927",
+      "lccn": "sn85042345",
+      "date": "1919-05-25",
+      "edition": 1,
+      "sequence": 9,
+      "state": "oklahoma",
+      "city": "tulsa",
+      "batch_path": "ndnp/okhi/batch_okhi_durant_ver01/data/sn85042345/00200296436/1919052501/0683",
+      "url": "https://www.loc.gov/resource/sn85042345/1919-05-25/ed-1/?sp=9",
+      "files": {
+        "pdf": "pages/sn85042345_1919-05-25_ed-1_seq-9.pdf",
+        "jp2": "pages/sn85042345_1919-05-25_ed-1_seq-9.jp2",
+        "xml": "pages/sn85042345_1919-05-25_ed-1_seq-9.xml",
+        "txt": "pages/sn85042345_1919-05-25_ed-1_seq-9.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-05-18/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-05-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918051801/0533",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-05-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-05-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-05-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-05-18_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-05-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-05-25/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-05-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918052501/0565",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-05-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-05-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-05-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-05-25_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-05-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-06-01/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-06-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918060101/0597",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-06-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-06-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-06-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-06-01_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-06-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-06-08/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-06-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918060801/0631",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-06-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-06-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-06-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-06-08_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-06-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-06-15/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-06-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918061501/0663",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-06-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-06-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-06-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-06-15_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-06-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-06-22/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-06-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018727/1918062201/0695",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-06-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-06-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-06-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-06-22_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-06-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-11-30/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-11-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018715/1918113001/0599",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-11-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-11-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-11-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-11-30_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-11-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-12-14/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-12-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018715/1918121401/0659",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-12-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-12-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-12-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-12-14_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-12-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn96060771/1918-12-21/ed-1/seq-1",
+      "newspaper_title": "nogales daily herald (nogales, ariz.) 1914-1918",
+      "lccn": "sn96060771",
+      "date": "1918-12-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "arizona",
+      "city": "nogales",
+      "batch_path": "ndnp/az/batch_az_electrum_ver02/data/sn96060771/00517018715/1918122101/0689",
+      "url": "https://www.loc.gov/resource/sn96060771/1918-12-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn96060771_1918-12-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn96060771_1918-12-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn96060771_1918-12-21_ed-1_seq-1.xml",
+        "txt": "pages/sn96060771_1918-12-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86090947/1919-03-07/ed-1/seq-1",
+      "newspaper_title": "atlanta semi-weekly journal (atlanta, ga.;atlanta, ga) 1898-1920",
+      "lccn": "sn86090947",
+      "date": "1919-03-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_hydrus_ver01/data/sn86090947/00393343783/1919030701/0147",
+      "url": "https://www.loc.gov/resource/sn86090947/1919-03-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86090947_1919-03-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86090947_1919-03-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn86090947_1919-03-07_ed-1_seq-1.xml",
+        "txt": "pages/sn86090947_1919-03-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86090947/1919-03-04/ed-1/seq-1",
+      "newspaper_title": "atlanta semi-weekly journal (atlanta, ga.;atlanta, ga) 1898-1920",
+      "lccn": "sn86090947",
+      "date": "1919-03-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "atlanta",
+      "batch_path": "ndnp/gu/batch_gu_hydrus_ver01/data/sn86090947/00393343783/1919030401/0135",
+      "url": "https://www.loc.gov/resource/sn86090947/1919-03-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86090947_1919-03-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86090947_1919-03-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn86090947_1919-03-04_ed-1_seq-1.xml",
+        "txt": "pages/sn86090947_1919-03-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86072239/1919-05-09/ed-1/seq-1",
+      "newspaper_title": "the cordova daily times (cordova, alaska) 1914-1947",
+      "lccn": "sn86072239",
+      "date": "1919-05-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "cordova",
+      "batch_path": "ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526648/1919050901/0639",
+      "url": "https://www.loc.gov/resource/sn86072239/1919-05-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86072239_1919-05-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86072239_1919-05-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn86072239_1919-05-09_ed-1_seq-1.xml",
+        "txt": "pages/sn86072239_1919-05-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86072239/1919-05-10/ed-1/seq-1",
+      "newspaper_title": "the cordova daily times (cordova, alaska) 1914-1947",
+      "lccn": "sn86072239",
+      "date": "1919-05-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "cordova",
+      "batch_path": "ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526648/1919051001/0651",
+      "url": "https://www.loc.gov/resource/sn86072239/1919-05-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86072239_1919-05-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86072239_1919-05-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn86072239_1919-05-10_ed-1_seq-1.xml",
+        "txt": "pages/sn86072239_1919-05-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86072239/1919-04-26/ed-1/seq-1",
+      "newspaper_title": "the cordova daily times (cordova, alaska) 1914-1947",
+      "lccn": "sn86072239",
+      "date": "1919-04-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "cordova",
+      "batch_path": "ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526648/1919042601/0555",
+      "url": "https://www.loc.gov/resource/sn86072239/1919-04-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86072239_1919-04-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86072239_1919-04-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn86072239_1919-04-26_ed-1_seq-1.xml",
+        "txt": "pages/sn86072239_1919-04-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86072239/1919-04-19/ed-1/seq-1",
+      "newspaper_title": "the cordova daily times (cordova, alaska) 1914-1947",
+      "lccn": "sn86072239",
+      "date": "1919-04-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "cordova",
+      "batch_path": "ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526648/1919041901/0511",
+      "url": "https://www.loc.gov/resource/sn86072239/1919-04-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86072239_1919-04-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86072239_1919-04-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn86072239_1919-04-19_ed-1_seq-1.xml",
+        "txt": "pages/sn86072239_1919-04-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86072239/1919-05-03/ed-1/seq-1",
+      "newspaper_title": "the cordova daily times (cordova, alaska) 1914-1947",
+      "lccn": "sn86072239",
+      "date": "1919-05-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "cordova",
+      "batch_path": "ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526648/1919050301/0607",
+      "url": "https://www.loc.gov/resource/sn86072239/1919-05-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86072239_1919-05-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86072239_1919-05-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn86072239_1919-05-03_ed-1_seq-1.xml",
+        "txt": "pages/sn86072239_1919-05-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-12-09/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-12-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919120901/1105",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-12-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-12-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-12-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-12-09_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-12-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-07-27/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-07-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919072701/0131",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-07-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-07-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-07-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-07-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-07-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-08-03/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-08-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919080301/0173",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-08-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-08-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-08-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-08-03_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-08-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-08-31/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-08-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919083101/0363",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-08-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-08-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-08-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-08-31_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-08-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-09-14/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-09-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919091401/0461",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-09-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-09-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-09-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-09-14_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-09-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-06-15/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-06-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344453/1919061501/1155",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-06-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-06-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-06-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-06-15_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-06-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-08-24/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-08-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919082401/0313",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-08-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-08-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-08-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-08-24_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-08-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-09-25/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-09-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919092501/0547",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-09-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-09-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-09-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-09-25_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-09-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-09-21/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-09-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919092101/0513",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-09-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-09-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-09-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-09-21_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-09-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-09-26/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-09-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919092601/0557",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-09-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-09-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-09-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-09-26_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-09-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-10-01/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-10-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919100101/0595",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-10-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-10-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-10-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-10-01_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-10-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-09-17/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-09-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919091701/0487",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-09-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-09-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-09-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-09-17_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-09-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-09-28/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-09-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919092801/0567",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-09-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-09-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-09-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-09-28_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-09-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-09-30/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-09-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919093001/0585",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-09-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-09-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-09-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-09-30_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-09-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-10-05/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-10-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919100501/0621",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-10-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-10-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-10-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-10-05_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-10-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1918-03-22/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1918-03-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344434/1918032201/0543",
+      "url": "https://www.loc.gov/resource/sn89053204/1918-03-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1918-03-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1918-03-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1918-03-22_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1918-03-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1918-03-10/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1918-03-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344434/1918031001/0453",
+      "url": "https://www.loc.gov/resource/sn89053204/1918-03-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1918-03-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1918-03-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1918-03-10_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1918-03-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1918-02-17/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1918-02-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344434/1918021701/0307",
+      "url": "https://www.loc.gov/resource/sn89053204/1918-02-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1918-02-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1918-02-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1918-02-17_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1918-02-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-03-11/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-03-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344453/1919031101/0467",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-03-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-03-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-03-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-03-11_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-03-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-10-26/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-10-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919102601/0777",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-10-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-10-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-10-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-10-26_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-10-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-11-02/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-11-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919110201/0829",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-11-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-11-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-11-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-11-02_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-11-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-10-12/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-10-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919101201/0673",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-10-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-10-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-10-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-10-12_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-10-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-10-19/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-10-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919101901/0725",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-10-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-10-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-10-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-10-19_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-10-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-10-28/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-10-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919102801/0795",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-10-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-10-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-10-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-10-28_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-10-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-11-09/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-11-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919110901/0881",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-11-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-11-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-11-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-11-09_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-11-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-10-21/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-10-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919102101/0743",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-10-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-10-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-10-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-10-21_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-10-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053204/1919-10-22/ed-1/seq-1",
+      "newspaper_title": "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+      "lccn": "sn89053204",
+      "date": "1919-10-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "americus",
+      "batch_path": "ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919102201/0753",
+      "url": "https://www.loc.gov/resource/sn89053204/1919-10-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053204_1919-10-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053204_1919-10-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053204_1919-10-22_ed-1_seq-1.xml",
+        "txt": "pages/sn89053204_1919-10-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn86072239/1918-03-30/ed-1/seq-1",
+      "newspaper_title": "the cordova daily times (cordova, alaska) 1914-1947",
+      "lccn": "sn86072239",
+      "date": "1918-03-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "alaska",
+      "city": "cordova",
+      "batch_path": "ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526624/1918033001/0590",
+      "url": "https://www.loc.gov/resource/sn86072239/1918-03-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn86072239_1918-03-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn86072239_1918-03-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn86072239_1918-03-30_ed-1_seq-1.xml",
+        "txt": "pages/sn86072239_1918-03-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-09-27/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-09-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918092701/0487",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-09-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-09-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-09-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-09-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-09-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-10-04/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-10-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918100401/0499",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-10-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-10-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-10-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-10-04_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-10-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-08-30/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-08-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918083001/0449",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-08-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-08-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-08-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-08-30_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-08-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-10-18/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-10-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918101801/0517",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-10-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-10-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-10-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-10-18_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-10-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-09-20/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-09-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918092001/0477",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-09-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-09-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-09-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-09-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-09-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-09-06/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-09-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918090601/0459",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-09-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-09-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-09-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-09-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-09-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053964/1918-11-01/ed-1/seq-1",
+      "newspaper_title": "the marietta journal and courier (marietta, ga.) 1909-1918",
+      "lccn": "sn89053964",
+      "date": "1918-11-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "marietta",
+      "batch_path": "ndnp/gu/batch_gu_elmo_ver02/data/sn89053964/00517177398/1918110101/0537",
+      "url": "https://www.loc.gov/resource/sn89053964/1918-11-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053964_1918-11-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053964_1918-11-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053964_1918-11-01_ed-1_seq-1.xml",
+        "txt": "pages/sn89053964_1918-11-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-02-06/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-02-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918020601/0257",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-02-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-02-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-02-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-02-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-02-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-02-20/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-02-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918022001/0289",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-02-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-02-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-02-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-02-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-02-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-02-13/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-02-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918021301/0273",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-02-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-02-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-02-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-02-13_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-02-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-03-20/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-03-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918032001/0353",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-03-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-03-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-03-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-03-20_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-03-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-11-13/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-11-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918111301/0777",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-11-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-11-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-11-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-11-13_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-11-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-02-27/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-02-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918022701/0305",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-02-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-02-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-02-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-02-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-02-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-03-13/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-03-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918031301/0337",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-03-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-03-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-03-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-03-13_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-03-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-03-06/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-03-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918030601/0321",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-03-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-03-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-03-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-03-06_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-03-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-04-03/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-04-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918040301/0381",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-04-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-04-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-04-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-04-03_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-04-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-03-27/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-03-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918032701/0369",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-03-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-03-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-03-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-03-27_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-03-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-01-02/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-01-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918010201/0181",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-01-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-01-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-01-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-01-02_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-01-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-01-09/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-01-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918010901/0197",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-01-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-01-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-01-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-01-09_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-01-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn89053537/1918-01-16/ed-1/seq-1",
+      "newspaper_title": "trench and camp (augusta, ga.) 1917-1919",
+      "lccn": "sn89053537",
+      "date": "1918-01-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "georgia",
+      "city": "augusta",
+      "batch_path": "ndnp/gu/batch_gu_eridanus_ver02/data/sn89053537/00393344532/1918011601/0213",
+      "url": "https://www.loc.gov/resource/sn89053537/1918-01-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn89053537_1918-01-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn89053537_1918-01-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn89053537_1918-01-16_ed-1_seq-1.xml",
+        "txt": "pages/sn89053537_1918-01-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-11-12/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-11-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764632/1919111201/0573",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-11-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-11-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-11-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-11-12_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-11-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-11-11/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-11-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764632/1919111101/0553",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-11-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-11-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-11-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-11-11_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-11-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-11-10/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-11-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764632/1919111001/0543",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-11-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-11-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-11-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-11-10_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-11-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-10-25/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-10-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764632/1919102501/0129",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-10-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-10-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-10-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-10-25_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-10-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-10-29/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-10-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764632/1919102901/0233",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-10-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-10-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-10-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-10-29_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-10-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-10-27/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-10-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764632/1919102701/0193",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-10-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-10-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-10-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-10-27_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-10-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-10-28/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-10-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764632/1919102801/0213",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-10-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-10-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-10-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-10-28_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-10-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-10-31/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-10-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764632/1919103101/0279",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-10-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-10-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-10-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-10-31_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-10-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-28/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122801/0950",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-28_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-18/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919121801/0710",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-18_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-27/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122701/0926",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-27_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-25/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122501/0890",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-25_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-26/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122601/0908",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-26_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-11-29/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-11-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919112901/0231",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-11-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-11-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-11-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-11-29_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-11-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-13/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919121301/0581",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-13_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-11/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919121101/0531",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-11_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-12/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919121201/0557",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-12_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-10/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919121001/0519",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-10_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-20/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122001/0762",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-20_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-19/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919121901/0736",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-19_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-22/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122201/0830",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-22_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-23/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122301/0854",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-23_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-24/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122401/0874",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-24_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-21/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122101/0786",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-21_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-30/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919123001/1004",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-30_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-29/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919122901/0988",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-29_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-12-31/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-12-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764644/1919123101/1024",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-12-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-12-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-12-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-12-31_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-12-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-24/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919012401/0411",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-24_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-26/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919012601/0449",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-26_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-22/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919012201/0373",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-22_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-28/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919012801/0489",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-28_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-25/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919012501/0433",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-25_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-04/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919010401/0007",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-04_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-05/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919010501/0021",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-05_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-13/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011301/0191",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-13_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-16/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011601/0252",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-16_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-15/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011501/0230",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-15_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-10/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011001/0125",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-10_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-14/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011401/0211",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-14_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-12/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011201/0161",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-12_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-19/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011901/0307",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-19_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-17/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011701/0273",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-17_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-20/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919012001/0337",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-20_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-18/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011801/0293",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-18_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-09/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919010901/0105",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-09_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-06/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919010601/0051",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-06_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-08/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919010801/0087",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-08_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-07/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919010701/0071",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-07_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-11/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919011101/0147",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-11_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84026749/1919-01-23/ed-1/seq-1",
+      "newspaper_title": "the washington times (washington [d.c.]) 1902-1939",
+      "lccn": "sn84026749",
+      "date": "1919-01-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_akita_ver02/data/sn84026749/00280764541/1919012301/0391",
+      "url": "https://www.loc.gov/resource/sn84026749/1919-01-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84026749_1919-01-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84026749_1919-01-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn84026749_1919-01-23_ed-1_seq-1.xml",
+        "txt": "pages/sn84026749_1919-01-23_ed-1_seq-1.txt"
+      }
+    }
+  ]
+}

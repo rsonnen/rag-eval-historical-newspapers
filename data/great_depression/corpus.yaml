@@ -1,0 +1,33 @@
+name: "Great Depression Newspapers (1929-1939)"
+
+corpus_context: >
+  150 digitized newspaper pages from the Great Depression era (1929-1939). From
+  the Library of Congress Chronicling America collection. Pages contain
+  reporting on unemployment, relief programs, bank failures, New Deal policies,
+  and social conditions. Documents reflect economic crisis coverage and period
+  language. Variable OCR quality, multi-column layouts typical of 1930s papers.
+  Source: Library of Congress NDNP.
+
+scenarios:
+  historical_research:
+    name: "Historical Research"
+    description: >
+      You are creating questions for historians researching the Great Depression.
+      Questions should test understanding of how newspapers covered economic
+      conditions, government relief efforts, unemployment, and social impact.
+      Focus on primary source reporting and period perspectives.
+
+  document_retrieval:
+    name: "Document Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific Depression-era
+      content. Questions should target unemployment figures, relief programs,
+      bank closures, New Deal announcements, or specific events as reported.
+      Account for OCR errors in the extracted text.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system read these Depression-era
+      newspapers. Questions must have specific, verifiable answers - statistics,
+      program names, dates, or quoted content that requires the actual text.

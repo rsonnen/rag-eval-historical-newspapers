@@ -1,0 +1,2710 @@
+{
+  "corpus": "gold_rush",
+  "search_query": "gold miners california",
+  "start_date": "1848-01-01",
+  "end_date": "1855-12-31",
+  "state_filter": null,
+  "total_pages": 150,
+  "pages": [
+    {
+      "page_id": "sn83030313/1854-01-22/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-01-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743099/1854012201/0177",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-01-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-01-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-01-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-01-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-01-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-03-11/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-03-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743099/1854031101/0573",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-03-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-03-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-03-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-03-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-03-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-04-20/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-04-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743051/1852042001/0660",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-04-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-04-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-04-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-04-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-04-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1853-02-10/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1853-02-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743075/1853021001/0304",
+      "url": "https://www.loc.gov/resource/sn83030313/1853-02-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1853-02-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1853-02-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1853-02-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1853-02-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-01-01/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-01-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743051/1852010101/0016",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-01-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-01-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-01-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-01-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-01-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1853-06-30/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1853-06-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743075/1853063001/1374",
+      "url": "https://www.loc.gov/resource/sn83030313/1853-06-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1853-06-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1853-06-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1853-06-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1853-06-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-01-29/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-01-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743099/1854012901/0235",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-01-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-01-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-01-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-01-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-01-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-02-11/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-02-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743099/1854021101/0347",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-02-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-02-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-02-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-02-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-02-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-02-07/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-02-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743099/1854020701/0313",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-02-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-02-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-02-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-02-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-02-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-05-18/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-05-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743051/1852051801/0848",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-05-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-05-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-05-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-05-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-05-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1853-03-30/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1853-03-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743075/1853033001/0662",
+      "url": "https://www.loc.gov/resource/sn83030313/1853-03-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1853-03-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1853-03-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1853-03-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1853-03-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1853-04-01/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1853-04-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743075/1853040101/0680",
+      "url": "https://www.loc.gov/resource/sn83030313/1853-04-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1853-04-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1853-04-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1853-04-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1853-04-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-06-22/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-06-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743051/1852062201/1074",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-06-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-06-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-06-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-06-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-06-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1851-06-27/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1851-06-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743038/1851062701/0969",
+      "url": "https://www.loc.gov/resource/sn83030313/1851-06-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1851-06-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1851-06-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1851-06-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1851-06-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1851-04-10/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1851-04-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743038/1851041001/0537",
+      "url": "https://www.loc.gov/resource/sn83030313/1851-04-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1851-04-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1851-04-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1851-04-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1851-04-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1853-05-09/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1853-05-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743075/1853050901/0974",
+      "url": "https://www.loc.gov/resource/sn83030313/1853-05-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1853-05-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1853-05-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1853-05-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1853-05-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-01-12/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-01-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850011201/0056",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-01-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-01-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-01-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-01-12_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-01-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-01-25/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-01-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850012501/0120",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-01-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-01-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-01-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-01-25_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-01-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-11-15/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-11-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851111501/0519",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-11-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-11-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-11-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-11-15_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-11-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-12-20/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-12-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851122001/0671",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-12-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-12-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-12-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-12-20_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-12-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-12-13/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-12-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851121301/0639",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-12-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-12-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-12-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-12-13_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-12-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-11-01/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-11-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851110101/0463",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-11-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-11-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-11-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-11-01_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-11-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-10-25/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-10-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851102501/0431",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-10-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-10-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-10-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-10-25_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-10-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-10-11/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-10-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851101101/0367",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-10-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-10-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-10-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-10-11_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-10-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-10-18/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-10-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851101801/0399",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-10-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-10-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-10-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-10-18_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-10-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-12-06/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-12-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851120601/0603",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-12-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-12-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-12-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-12-06_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-12-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-11-29/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-11-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851112901/0571",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-11-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-11-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-11-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-11-29_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-11-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-12-22/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-12-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566140A/1851122201/0683",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-12-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-12-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-12-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-12-22_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-12-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-09-25/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-09-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/00206530388/1852092501/0809",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-09-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-09-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-09-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-09-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-09-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-10-02/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-10-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/0020653039A/1852100201/0009",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-10-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-10-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-10-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-10-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-10-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-09-18/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-09-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/00206530388/1852091801/0757",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-09-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-09-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-09-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-09-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-09-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-07-03/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-07-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/00206530388/1852070301/0233",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-07-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-07-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-07-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-07-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-07-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-06-07/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-06-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/00206530388/1852060701/0041",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-06-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-06-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-06-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-06-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-06-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-06-12/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-06-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/00206530388/1852061201/0085",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-06-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-06-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-06-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-06-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-06-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1853-03-05/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1853-03-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/00206530406/1853030501/0437",
+      "url": "https://www.loc.gov/resource/sn83030213/1853-03-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1853-03-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1853-03-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1853-03-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1853-03-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1853-03-26/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1853-03-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/00206530406/1853032601/0585",
+      "url": "https://www.loc.gov/resource/sn83030213/1853-03-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1853-03-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1853-03-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1853-03-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1853-03-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-10-23/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-10-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/0020653039A/1852102301/0157",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-10-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-10-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-10-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-10-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-10-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1853-01-01/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1853-01-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_airy_ver02/data/sn83030213/00206530406/1853010101/0001",
+      "url": "https://www.loc.gov/resource/sn83030213/1853-01-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1853-01-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1853-01-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1853-01-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1853-01-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1851-02-14/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1851-02-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/00415661393/1851021401/0206",
+      "url": "https://www.loc.gov/resource/sn82014434/1851-02-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1851-02-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1851-02-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1851-02-14_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1851-02-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-02-01/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-02-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850020101/0156",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-02-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-02-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-02-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-02-01_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-02-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-02-15/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-02-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850021501/0228",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-02-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-02-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-02-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-02-15_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-02-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-01-18/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-01-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850011801/0086",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-01-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-01-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-01-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-01-18_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-01-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-02-22/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-02-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850022201/0262",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-02-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-02-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-02-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-02-22_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-02-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-03-01/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-03-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850030101/0296",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-03-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-03-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-03-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-03-01_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-03-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-03-22/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-03-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850032201/0402",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-03-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-03-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-03-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-03-22_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-03-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-03-29/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-03-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850032901/0436",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-03-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-03-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-03-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-03-29_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-03-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-03-15/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-03-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850031501/0364",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-03-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-03-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-03-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-03-15_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-03-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-03-08/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-03-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850030801/0330",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-03-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-03-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-03-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-03-08_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-03-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82014434/1850-02-08/ed-1/seq-1",
+      "newspaper_title": "the republic (washington [d.c.]) 1849-1853",
+      "lccn": "sn82014434",
+      "date": "1850-02-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_dragon_ver01/data/sn82014434/0041566137A/1850020801/0190",
+      "url": "https://www.loc.gov/resource/sn82014434/1850-02-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82014434_1850-02-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82014434_1850-02-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn82014434_1850-02-08_ed-1_seq-1.xml",
+        "txt": "pages/sn82014434_1850-02-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1849-03-04/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1849-03-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_basilisk_ver03/data/sn82003410/00415661137/1849030401/0262",
+      "url": "https://www.loc.gov/resource/sn82003410/1849-03-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1849-03-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1849-03-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1849-03-04_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1849-03-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-03-23/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-03-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850032301/0378",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-03-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-03-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-03-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-03-23_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-03-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-03-16/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-03-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850031601/0344",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-03-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-03-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-03-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-03-16_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-03-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-03-30/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-03-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850033001/0412",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-03-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-03-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-03-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-03-30_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-03-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-03-09/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-03-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850030901/0310",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-03-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-03-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-03-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-03-09_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-03-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-02-16/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-02-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850021601/0208",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-02-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-02-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-02-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-02-16_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-02-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-02-23/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-02-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850022301/0242",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-02-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-02-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-02-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-02-23_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-02-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-03-02/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-03-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850030201/0276",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-03-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-03-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-03-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-03-02_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-03-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-02-02/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-02-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850020201/0140",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-02-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-02-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-02-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-02-02_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-02-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-01-26/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-01-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850012601/0108",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-01-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-01-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-01-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-01-26_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-01-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-01-19/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-01-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850011901/0074",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-01-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-01-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-01-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-01-19_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-01-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1849-02-25/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1849-02-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_basilisk_ver03/data/sn82003410/00415661137/1849022501/0226",
+      "url": "https://www.loc.gov/resource/sn82003410/1849-02-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1849-02-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1849-02-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1849-02-25_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1849-02-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1849-03-24/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1849-03-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_basilisk_ver03/data/sn82003410/00415661137/1849032401/0342",
+      "url": "https://www.loc.gov/resource/sn82003410/1849-03-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1849-03-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1849-03-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1849-03-24_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1849-03-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-04-06/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-04-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850040601/0446",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-04-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-04-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-04-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-04-06_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-04-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1850-02-09/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1850-02-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661186/1850020901/0174",
+      "url": "https://www.loc.gov/resource/sn82003410/1850-02-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1850-02-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1850-02-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1850-02-09_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1850-02-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-05-31/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-05-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530376/1852053101/0845",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-05-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-05-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-05-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-05-31_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-05-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-05-08/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-05-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530376/1852050801/0685",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-05-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-05-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-05-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-05-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-05-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-05-22/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-05-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530376/1852052201/0785",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-05-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-05-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-05-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-05-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-05-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1850-06-01/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1850-06-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1850060101/0207",
+      "url": "https://www.loc.gov/resource/sn83045784/1850-06-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1850-06-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1850-06-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1850-06-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1850-06-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1850-06-22/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1850-06-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1850062201/0238",
+      "url": "https://www.loc.gov/resource/sn83045784/1850-06-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1850-06-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1850-06-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1850-06-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1850-06-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1850-03-02/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1850-03-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1850030201/0098",
+      "url": "https://www.loc.gov/resource/sn83045784/1850-03-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1850-03-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1850-03-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1850-03-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1850-03-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1851-08-30/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1851-08-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1851083001/0747",
+      "url": "https://www.loc.gov/resource/sn83045784/1851-08-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1851-08-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1851-08-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1851-08-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1851-08-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1850-06-15/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1850-06-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1850061501/0225",
+      "url": "https://www.loc.gov/resource/sn83045784/1850-06-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1850-06-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1850-06-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1850-06-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1850-06-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1850-10-19/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1850-10-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1850101901/0389",
+      "url": "https://www.loc.gov/resource/sn83045784/1850-10-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1850-10-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1850-10-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1850-10-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1850-10-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1850-12-07/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1850-12-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1850120701/0449",
+      "url": "https://www.loc.gov/resource/sn83045784/1850-12-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1850-12-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1850-12-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1850-12-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1850-12-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1850-05-25/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1850-05-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1850052501/0196",
+      "url": "https://www.loc.gov/resource/sn83045784/1850-05-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1850-05-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1850-05-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1850-05-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1850-05-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045784/1850-06-29/ed-1/seq-1",
+      "newspaper_title": "weekly national intelligencer (washington [d.c.]) 1841-1869",
+      "lccn": "sn83045784",
+      "date": "1850-06-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661599/1850062901/0254",
+      "url": "https://www.loc.gov/resource/sn83045784/1850-06-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045784_1850-06-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045784_1850-06-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045784_1850-06-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83045784_1850-06-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn84020104/1854-05-07/ed-1/seq-1",
+      "newspaper_title": "washington sentinel (washington [d.c.]) 1853-1855",
+      "lccn": "sn84020104",
+      "date": "1854-05-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_firedrake_ver01/data/sn84020104/00415661538/1854050701/0451",
+      "url": "https://www.loc.gov/resource/sn84020104/1854-05-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn84020104_1854-05-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn84020104_1854-05-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn84020104_1854-05-07_ed-1_seq-1.xml",
+        "txt": "pages/sn84020104_1854-05-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1848-01-01/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1848-01-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_kudzu_ver01/data/sn83030313/00271742976/1848010101/0018",
+      "url": "https://www.loc.gov/resource/sn83030313/1848-01-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1848-01-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1848-01-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1848-01-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1848-01-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1850-09-02/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1850-09-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_marcus_ver01/data/sn83030313/00271743026/1850090201/0305",
+      "url": "https://www.loc.gov/resource/sn83030313/1850-09-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1850-09-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1850-09-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1850-09-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1850-09-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1850-10-31/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1850-10-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_marcus_ver01/data/sn83030313/00271743026/1850103101/0611",
+      "url": "https://www.loc.gov/resource/sn83030313/1850-10-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1850-10-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1850-10-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1850-10-31_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1850-10-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1851-07-07/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1851-07-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_marcus_ver01/data/sn83030313/0027174304A/1851070701/0053",
+      "url": "https://www.loc.gov/resource/sn83030313/1851-07-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1851-07-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1851-07-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1851-07-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1851-07-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1851-12-04/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1851-12-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_marcus_ver01/data/sn83030313/0027174304A/1851120401/0885",
+      "url": "https://www.loc.gov/resource/sn83030313/1851-12-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1851-12-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1851-12-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1851-12-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1851-12-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-04-17/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-04-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530376/1852041701/0529",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-04-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-04-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-04-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-04-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-04-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-04-03/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-04-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530376/1852040301/0425",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-04-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-04-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-04-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-04-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-04-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-04-09/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-04-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530376/1852040901/0469",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-04-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-04-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-04-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-04-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-04-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045462/1855-01-27/ed-1/seq-1",
+      "newspaper_title": "evening star (washington, d.c.) 1854-1972",
+      "lccn": "sn83045462",
+      "date": "1855-01-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_kuvasz_ver02/data/sn83045462/0028065405A/1855012701/0028",
+      "url": "https://www.loc.gov/resource/sn83045462/1855-01-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045462_1855-01-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045462_1855-01-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045462_1855-01-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83045462_1855-01-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83045461/1854-01-16/ed-1/seq-1",
+      "newspaper_title": "daily evening star (washington [d.c.]) 1852-1854",
+      "lccn": "sn83045461",
+      "date": "1854-01-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_kuvasz_ver02/data/sn83045461/00280654036/1854011601/0048",
+      "url": "https://www.loc.gov/resource/sn83045461/1854-01-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83045461_1854-01-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83045461_1854-01-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83045461_1854-01-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83045461_1854-01-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1851-09-29/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1851-09-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crunchy_ver02/data/sn83030213/00206530352/1851092901/0609",
+      "url": "https://www.loc.gov/resource/sn83030213/1851-09-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1851-09-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1851-09-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1851-09-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1851-09-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1851-10-25/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1851-10-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crunchy_ver02/data/sn83030213/00206530352/1851102501/0797",
+      "url": "https://www.loc.gov/resource/sn83030213/1851-10-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1851-10-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1851-10-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1851-10-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1851-10-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1851-04-26/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1851-04-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crunchy_ver02/data/sn83030213/00206530340/1851042601/0177",
+      "url": "https://www.loc.gov/resource/sn83030213/1851-04-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1851-04-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1851-04-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1851-04-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1851-04-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1851-05-10/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1851-05-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_crunchy_ver02/data/sn83030213/00206530340/1851051001/0277",
+      "url": "https://www.loc.gov/resource/sn83030213/1851-05-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1851-05-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1851-05-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1851-05-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1851-05-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-04-24/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-04-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530376/1852042401/0581",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-04-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-04-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-04-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-04-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-04-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1852-05-01/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1852-05-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530376/1852050101/0633",
+      "url": "https://www.loc.gov/resource/sn83030213/1852-05-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1852-05-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1852-05-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1852-05-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1852-05-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-01-13/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-01-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854011301/0047",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-01-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-01-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-01-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-01-13_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-01-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-01-20/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-01-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854012001/0087",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-01-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-01-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-01-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-01-20_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-01-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-03-24/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-03-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854032401/0459",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-03-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-03-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-03-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-03-24_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-03-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-10-10/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-10-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851101001/1021",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-10-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-10-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-10-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-10-10_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-10-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-10-17/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-10-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851101701/1053",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-10-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-10-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-10-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-10-17_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-10-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-10-24/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-10-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851102401/1085",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-10-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-10-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-10-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-10-24_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-10-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-10-31/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-10-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851103101/1117",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-10-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-10-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-10-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-10-31_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-10-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-11-07/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-11-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851110701/1149",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-11-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-11-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-11-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-11-07_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-11-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-11-21/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-11-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851112101/1213",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-11-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-11-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-11-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-11-21_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-11-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-11-14/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-11-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851111401/1181",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-11-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-11-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-11-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-11-14_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-11-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-02-10/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-02-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854021001/0207",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-02-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-02-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-02-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-02-10_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-02-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-03-17/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-03-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854031701/0411",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-03-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-03-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-03-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-03-17_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-03-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-02-03/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-02-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854020301/0167",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-02-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-02-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-02-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-02-03_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-02-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-03-10/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-03-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854031001/0367",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-03-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-03-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-03-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-03-10_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-03-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-03-03/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-03-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854030301/0327",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-03-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-03-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-03-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-03-03_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-03-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-01-27/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-01-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854012701/0127",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-01-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-01-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-01-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-01-27_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-01-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-02-24/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-02-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854022401/0287",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-02-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-02-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-02-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-02-24_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-02-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-02-21/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-02-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855022101/0222",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-02-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-02-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-02-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-02-21_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-02-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-02-14/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-02-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855021401/0190",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-02-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-02-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-02-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-02-14_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-02-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-01-24/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-01-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855012401/0093",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-01-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-01-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-01-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-01-24_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-01-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-03-07/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-03-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855030701/0286",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-03-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-03-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-03-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-03-07_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-03-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-03-14/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-03-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855031401/0318",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-03-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-03-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-03-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-03-14_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-03-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-02-28/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-02-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855022801/0254",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-02-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-02-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-02-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-02-28_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-02-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-03-21/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-03-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855032101/0350",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-03-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-03-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-03-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-03-21_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-03-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-03-28/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-03-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855032801/0382",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-03-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-03-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-03-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-03-28_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-03-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-04-04/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-04-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855040401/0415",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-04-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-04-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-04-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-04-04_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-04-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-01-17/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-01-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855011701/0061",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-01-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-01-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-01-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-01-17_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-01-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1854-02-17/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1854-02-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661228/1854021701/0247",
+      "url": "https://www.loc.gov/resource/sn82003410/1854-02-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1854-02-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1854-02-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1854-02-17_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1854-02-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-02-07/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-02-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855020701/0157",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-02-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-02-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-02-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-02-07_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-02-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1855-01-31/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1855-01-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661241/1855013101/0125",
+      "url": "https://www.loc.gov/resource/sn82003410/1855-01-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1855-01-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1855-01-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1855-01-31_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1855-01-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-12-05/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-12-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851120501/1275",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-12-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-12-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-12-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-12-05_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-12-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-12-12/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-12-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851121201/1307",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-12-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-12-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-12-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-12-12_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-12-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-12-19/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-12-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851121901/1339",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-12-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-12-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-12-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-12-19_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-12-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn82003410/1851-12-25/ed-1/seq-1",
+      "newspaper_title": "the daily union (washington [d.c.]) 1845-1857",
+      "lccn": "sn82003410",
+      "date": "1851-12-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "district of columbia",
+      "city": "washington",
+      "batch_path": "ndnp/dlc/batch_dlc_chimera_ver01/data/sn82003410/00415661198/1851122501/1367",
+      "url": "https://www.loc.gov/resource/sn82003410/1851-12-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn82003410_1851-12-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn82003410_1851-12-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn82003410_1851-12-25_ed-1_seq-1.xml",
+        "txt": "pages/sn82003410_1851-12-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1855-01-06/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1855-01-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/0027174321A/1855010601/0058",
+      "url": "https://www.loc.gov/resource/sn83030313/1855-01-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1855-01-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1855-01-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1855-01-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1855-01-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1855-03-23/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1855-03-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/0027174321A/1855032301/0662",
+      "url": "https://www.loc.gov/resource/sn83030313/1855-03-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1855-03-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1855-03-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1855-03-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1855-03-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1855-03-19/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1855-03-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/0027174321A/1855031901/0628",
+      "url": "https://www.loc.gov/resource/sn83030313/1855-03-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1855-03-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1855-03-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1855-03-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1855-03-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1855-01-09/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1855-01-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/0027174321A/1855010901/0084",
+      "url": "https://www.loc.gov/resource/sn83030313/1855-01-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1855-01-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1855-01-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1855-01-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1855-01-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1855-01-17/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1855-01-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/0027174321A/1855011701/0154",
+      "url": "https://www.loc.gov/resource/sn83030313/1855-01-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1855-01-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1855-01-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1855-01-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1855-01-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1855-01-16/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1855-01-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/0027174321A/1855011601/0144",
+      "url": "https://www.loc.gov/resource/sn83030313/1855-01-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1855-01-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1855-01-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1855-01-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1855-01-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-06-16/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-06-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/00271743099/1854061601/1357",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-06-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-06-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-06-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-06-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-06-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1855-05-02/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1855-05-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030313/0027174321A/1855050201/0954",
+      "url": "https://www.loc.gov/resource/sn83030313/1855-05-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1855-05-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1855-05-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1855-05-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1855-05-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-12-31/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-12-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743063/1852123101/1257",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-12-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-12-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-12-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-12-31_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-12-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-12-21/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-12-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743063/1852122101/1180",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-12-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-12-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-12-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-12-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-12-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-12-20/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-12-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743063/1852122001/1167",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-12-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-12-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-12-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-12-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-12-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-07-15/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-07-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743063/1852071501/0099",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-07-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-07-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-07-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-07-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-07-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-11-04/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-11-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743063/1852110401/0843",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-11-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-11-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-11-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-11-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-11-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1853-10-16/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1853-10-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743087/1853101601/0838",
+      "url": "https://www.loc.gov/resource/sn83030313/1853-10-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1853-10-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1853-10-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1853-10-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1853-10-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-11-12/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-11-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743208/1854111201/1101",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-11-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-11-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-11-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-11-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-11-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-11-14/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-11-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743208/1854111401/1125",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-11-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-11-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-11-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-11-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-11-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-11-13/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-11-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743208/1854111301/1114",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-11-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-11-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-11-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-11-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-11-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-07-04/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-07-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743208/1854070401/0041",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-07-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-07-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-07-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-07-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-07-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1853-12-23/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1853-12-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743087/1853122301/1384",
+      "url": "https://www.loc.gov/resource/sn83030313/1853-12-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1853-12-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1853-12-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1853-12-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1853-12-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-07-30/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-07-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743208/1854073001/0243",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-07-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-07-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-07-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-07-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-07-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1854-08-01/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1854-08-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743208/1854080101/0261",
+      "url": "https://www.loc.gov/resource/sn83030313/1854-08-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1854-08-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1854-08-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1854-08-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1854-08-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-08-21/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-08-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743063/1852082101/0323",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-08-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-08-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-08-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-08-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-08-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1852-08-19/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1852-08-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743063/1852081901/0309",
+      "url": "https://www.loc.gov/resource/sn83030313/1852-08-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1852-08-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1852-08-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1852-08-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1852-08-19_ed-1_seq-1.txt"
+      }
+    }
+  ]
+}

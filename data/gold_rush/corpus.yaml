@@ -1,0 +1,34 @@
+name: "California Gold Rush Newspapers (1848-1855)"
+
+corpus_context: >
+  150 digitized newspaper pages from California during the Gold Rush era
+  (1848-1855). From the Library of Congress Chronicling America collection.
+  Pages contain mining news, San Francisco development, prices and commerce,
+  transportation routes, and frontier conditions. Documents feature early
+  California printing with variable quality. Significant OCR challenges due to
+  age and printing conditions. Source: Library of Congress NDNP.
+
+scenarios:
+  historical_research:
+    name: "Historical Research"
+    description: >
+      You are creating questions for historians researching the California Gold
+      Rush. Questions should test understanding of how newspapers reported
+      mining activity, commerce, social conditions, transportation, and the
+      rapid transformation of California. Focus on primary source details.
+
+  document_retrieval:
+    name: "Document Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific Gold Rush-era
+      content. Questions should target mining reports, shipping news, prices,
+      locations, or specific events as reported in California papers. Account
+      for significant OCR errors from early printing.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system read these Gold Rush newspapers.
+      Questions must have specific, verifiable answers despite OCR challenges.
+      Target clearly legible content - mining locations, ship names, prices,
+      or distinctive period language.

@@ -1,0 +1,2710 @@
+{
+  "corpus": "civil_war_union",
+  "search_query": "war rebellion confederate",
+  "start_date": "1861-01-01",
+  "end_date": "1865-12-31",
+  "state_filter": null,
+  "total_pages": 150,
+  "pages": [
+    {
+      "page_id": "sn83030313/1861-12-24/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861122401/0765",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-12-07/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861120701/0609",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-12-28/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861122801/0801",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-28_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-12-31/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861123101/0829",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-31_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-10-24/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-10-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861102401/0215",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-10-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-10-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-10-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-10-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-10-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-11-30/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-11-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861113001/0545",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-11-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-11-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-11-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-11-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-11-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-12-13/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861121301/0665",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-12-17/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861121701/0701",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-12-19/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861121901/0721",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-11-06/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-11-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861110601/0331",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-11-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-11-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-11-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-11-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-11-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-12-10/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861121001/0637",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-11-19/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-11-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861111901/0449",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-11-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-11-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-11-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-11-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-11-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-12-04/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-12-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861120401/0581",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-12-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-12-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-12-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-12-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-12-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-11-26/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-11-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861112601/0509",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-11-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-11-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-11-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-11-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-11-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-10-29/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-10-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861102901/0259",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-10-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-10-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-10-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-10-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-10-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-10-14/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-10-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861101401/0123",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-10-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-10-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-10-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-10-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-10-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-10-15/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-10-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861101501/0133",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-10-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-10-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-10-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-10-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-10-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-10-08/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-10-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861100801/0071",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-10-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-10-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-10-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-10-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-10-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-10-22/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-10-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861102201/0193",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-10-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-10-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-10-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-10-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-10-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-10-23/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-10-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861102301/0205",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-10-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-10-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-10-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-10-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-10-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-11-14/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-11-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861111401/0401",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-11-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-11-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-11-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-11-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-11-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-10-31/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-10-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861103101/0279",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-10-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-10-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-10-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-10-31_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-10-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1861-11-16/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1861-11-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_nosebleed_ver01/data/sn83030313/00271743397/1861111601/0421",
+      "url": "https://www.loc.gov/resource/sn83030313/1861-11-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1861-11-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1861-11-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1861-11-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1861-11-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-06/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862050601/0056",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-10/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862051001/0102",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-08/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862050801/0080",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-06-16/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-06-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862061601/0444",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-06-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-06-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-06-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-06-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-06-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-20/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862052001/0192",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-06-17/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-06-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862061701/0454",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-06-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-06-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-06-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-06-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-06-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-06-12/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-06-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862061201/0408",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-06-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-06-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-06-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-06-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-06-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-06-10/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-06-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862061001/0388",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-06-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-06-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-06-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-06-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-06-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-07-16/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-07-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862071601/0686",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-07-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-07-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-07-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-07-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-07-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-07-01/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-07-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862070101/0570",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-07-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-07-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-07-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-07-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-07-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-07/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862050701/0068",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-06-05/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-06-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862060501/0344",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-06-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-06-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-06-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-06-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-06-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-06-04/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-06-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862060401/0332",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-06-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-06-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-06-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-06-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-06-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-06-03/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-06-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862060301/0320",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-06-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-06-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-06-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-06-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-06-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-30/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862053001/0284",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-27/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862052701/0256",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-14/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862051401/0142",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-24/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862052401/0228",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1864-10-28/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1864-10-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83030313/0027174349A/1864102801/0478",
+      "url": "https://www.loc.gov/resource/sn83030313/1864-10-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1864-10-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1864-10-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1864-10-28_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1864-10-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-11-28/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-11-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83030313/00271743427/1862112801/0724",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-11-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-11-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-11-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-11-28_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-11-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-10-10/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-10-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83030313/00271743427/1862101001/0328",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-10-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-10-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-10-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-10-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-10-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-05-13/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-05-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_poppy_ver01/data/sn83030313/00271743415/1862051301/0130",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-05-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-05-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-05-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-05-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-05-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1864-09-13/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1864-09-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83030313/0027174349A/1864091301/0116",
+      "url": "https://www.loc.gov/resource/sn83030313/1864-09-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1864-09-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1864-09-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1864-09-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1864-09-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-12-25/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-12-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83030313/00271743427/1862122501/0944",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-12-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-12-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-12-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-12-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-12-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-11-23/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-11-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83030313/00271743427/1862112301/0682",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-11-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-11-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-11-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-11-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-11-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-11-30/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-11-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83030313/00271743427/1862113001/0742",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-11-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-11-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-11-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-11-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-11-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-15/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862041501/0918",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-08/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862040801/0846",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-16/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862041601/0930",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-03/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862040301/0802",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-09/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862040901/0858",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-12/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862041201/0890",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-26/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862032601/0722",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-10/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862041001/0870",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-02-26/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-02-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862022601/0464",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-02-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-02-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-02-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-02-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-02-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-02-01/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-02-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862020101/0262",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-02-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-02-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-02-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-02-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-02-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-17/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862031701/0636",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-08/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862030801/0552",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-18/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862031801/0646",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-19/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862031901/0658",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-11/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862031101/0580",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-26/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862042601/1032",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-29/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862042901/1060",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-22/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862042201/0986",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-23/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862042301/1000",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-12/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862031201/0592",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-17/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862041701/0942",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-02/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862040201/0790",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-01/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862040101/0778",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-29/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-29",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862032901/0750",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-29/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-29_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-29_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-29_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-29_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-04-24/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-04-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862042401/1012",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-04-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-04-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-04-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-04-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-04-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-05/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862030501/0524",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030313/1862-03-25/ed-1/seq-1",
+      "newspaper_title": "the new york herald (new york [n.y.]) 1840-1920",
+      "lccn": "sn83030313",
+      "date": "1862-03-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83030313/00271743403/1862032501/0710",
+      "url": "https://www.loc.gov/resource/sn83030313/1862-03-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030313_1862-03-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030313_1862-03-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030313_1862-03-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83030313_1862-03-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1864-01-18/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1864-01-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530765/1864011801/0119",
+      "url": "https://www.loc.gov/resource/sn83030213/1864-01-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1864-01-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1864-01-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1864-01-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1864-01-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1864-01-09/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1864-01-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530765/1864010901/0059",
+      "url": "https://www.loc.gov/resource/sn83030213/1864-01-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1864-01-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1864-01-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1864-01-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1864-01-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1864-01-01/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1864-01-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530765/1864010101/0007",
+      "url": "https://www.loc.gov/resource/sn83030213/1864-01-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1864-01-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1864-01-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1864-01-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1864-01-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-06-26/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-06-26",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530807/1865062601/0399",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-06-26/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-06-26_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-06-26_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-06-26_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-06-26_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-05-31/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-05-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530807/1865053101/0231",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-05-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-05-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-05-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-05-31_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-05-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-23/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865122301/0851",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-06/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865120601/0703",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-11-18/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-11-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865111801/0567",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-11-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-11-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-11-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-11-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-11-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-02/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865120201/0671",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-10-21/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-10-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865102101/0363",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-10-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-10-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-10-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-10-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-10-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-11-04/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-11-04",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865110401/0467",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-11-04/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-11-04_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-11-04_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-11-04_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-11-04_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-09-30/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-09-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865093001/0211",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-09-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-09-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-09-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-09-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-09-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-10-07/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-10-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865100701/0263",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-10-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-10-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-10-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-10-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-10-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-10-28/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-10-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865102801/0415",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-10-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-10-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-10-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-10-28_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-10-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-11-25/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-11-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865112501/0619",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-11-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-11-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-11-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-11-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-11-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-18/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-18",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865121801/0803",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-18/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-18_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-18_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-18_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-18_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-21/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865122101/0831",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-14/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865121401/0771",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-07/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865120701/0719",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-16/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865121601/0791",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-12-05/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-12-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865120501/0691",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-12-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-12-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-12-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-12-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-12-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-08-02/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-08-02",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530807/1865080201/0641",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-08-02/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-08-02_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-08-02_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-08-02_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-08-02_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1865-09-16/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1865-09-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530819/1865091601/0111",
+      "url": "https://www.loc.gov/resource/sn83030213/1865-09-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1865-09-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1865-09-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1865-09-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1865-09-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83030213/1864-03-05/ed-1/seq-1",
+      "newspaper_title": "new-york daily tribune (new-york [n.y.]) 1842-1866",
+      "lccn": "sn83030213",
+      "date": "1864-03-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "new york",
+      "city": "new york",
+      "batch_path": "ndnp/dlc/batch_dlc_cobol_ver02/data/sn83030213/00206530765/1864030501/0471",
+      "url": "https://www.loc.gov/resource/sn83030213/1864-03-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83030213_1864-03-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83030213_1864-03-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83030213_1864-03-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83030213_1864-03-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1862-06-27/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1862-06-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347300/1862062701/0214",
+      "url": "https://www.loc.gov/resource/sn83016751/1862-06-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1862-06-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1862-06-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1862-06-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1862-06-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1864-12-23/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1864-12-23",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347324/1864122301/0497",
+      "url": "https://www.loc.gov/resource/sn83016751/1864-12-23/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1864-12-23_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1864-12-23_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1864-12-23_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1864-12-23_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-01-13/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-01-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865011301/0010",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-01-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-01-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-01-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-01-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-01-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-01-27/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-01-27",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865012701/0032",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-01-27/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-01-27_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-01-27_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-01-27_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-01-27_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1864-12-30/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1864-12-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347324/1864123001/0510",
+      "url": "https://www.loc.gov/resource/sn83016751/1864-12-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1864-12-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1864-12-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1864-12-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1864-12-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1864-12-16/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1864-12-16",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347324/1864121601/0487",
+      "url": "https://www.loc.gov/resource/sn83016751/1864-12-16/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1864-12-16_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1864-12-16_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1864-12-16_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1864-12-16_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1864-11-25/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1864-11-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347324/1864112501/0451",
+      "url": "https://www.loc.gov/resource/sn83016751/1864-11-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1864-11-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1864-11-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1864-11-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1864-11-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1864-11-11/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1864-11-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347324/1864111101/0432",
+      "url": "https://www.loc.gov/resource/sn83016751/1864-11-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1864-11-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1864-11-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1864-11-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1864-11-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1864-12-09/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1864-12-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347324/1864120901/0472",
+      "url": "https://www.loc.gov/resource/sn83016751/1864-12-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1864-12-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1864-12-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1864-12-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1864-12-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-02-03/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-02-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865020301/0042",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-02-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-02-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-02-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-02-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-02-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-02-10/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-02-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865021001/0056",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-02-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-02-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-02-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-02-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-02-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-10-09/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-10-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863100901/0404",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-10-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-10-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-10-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-10-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-10-09_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-12-11/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-12-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863121101/0492",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-12-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-12-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-12-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-12-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-12-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-03-06/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-03-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863030601/0092",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-03-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-03-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-03-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-03-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-03-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-02-20/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-02-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863022001/0073",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-02-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-02-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-02-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-02-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-02-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-03-20/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-03-20",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863032001/0115",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-03-20/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-03-20_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-03-20_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-03-20_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-03-20_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-03-13/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-03-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863031301/0102",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-03-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-03-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-03-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-03-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-03-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-08-21/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-08-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863082101/0344",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-08-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-08-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-08-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-08-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-08-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-11-06/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-11-06",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863110601/0442",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-11-06/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-11-06_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-11-06_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-11-06_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-11-06_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-10-30/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-10-30",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863103001/0431",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-10-30/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-10-30_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-10-30_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-10-30_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-10-30_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-11-13/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-11-13",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863111301/0456",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-11-13/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-11-13_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-11-13_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-11-13_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-11-13_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-07-10/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-07-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863071001/0278",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-07-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-07-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-07-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-07-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-07-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-07-17/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-07-17",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863071701/0290",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-07-17/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-07-17_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-07-17_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-07-17_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-07-17_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-07-24/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-07-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863072401/0301",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-07-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-07-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-07-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-07-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-07-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1863-07-03/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1863-07-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347312/1863070301/0268",
+      "url": "https://www.loc.gov/resource/sn83016751/1863-07-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1863-07-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1863-07-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1863-07-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1863-07-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1861-01-25/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1861-01-25",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347294/1861012501/0030",
+      "url": "https://www.loc.gov/resource/sn83016751/1861-01-25/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1861-01-25_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1861-01-25_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1861-01-25_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1861-01-25_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1861-02-01/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1861-02-01",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347294/1861020101/0041",
+      "url": "https://www.loc.gov/resource/sn83016751/1861-02-01/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1861-02-01_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1861-02-01_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1861-02-01_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1861-02-01_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1861-02-15/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1861-02-15",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347294/1861021501/0059",
+      "url": "https://www.loc.gov/resource/sn83016751/1861-02-15/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1861-02-15_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1861-02-15_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1861-02-15_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1861-02-15_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1861-02-22/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1861-02-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347294/1861022201/0071",
+      "url": "https://www.loc.gov/resource/sn83016751/1861-02-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1861-02-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1861-02-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1861-02-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1861-02-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1861-01-11/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1861-01-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347294/1861011101/0012",
+      "url": "https://www.loc.gov/resource/sn83016751/1861-01-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1861-01-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1861-01-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1861-01-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1861-01-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-04-07/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-04-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865040701/0139",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-04-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-04-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-04-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-04-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-04-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-03-10/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-03-10",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865031001/0098",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-03-10/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-03-10_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-03-10_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-03-10_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-03-10_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-02-24/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-02-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865022401/0078",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-02-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-02-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-02-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-02-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-02-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-07-21/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-07-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865072101/0305",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-07-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-07-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-07-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-07-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-07-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-07-14/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-07-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865071401/0293",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-07-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-07-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-07-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-07-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-07-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-07-07/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-07-07",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865070701/0281",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-07-07/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-07-07_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-07-07_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-07-07_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-07-07_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-03-24/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-03-24",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865032401/0117",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-03-24/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-03-24_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-03-24_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-03-24_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-03-24_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-04-14/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-04-14",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865041401/0151",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-04-14/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-04-14_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-04-14_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-04-14_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-04-14_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-07-28/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-07-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865072801/0317",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-07-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-07-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-07-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-07-28_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-07-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-08-11/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-08-11",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865081101/0335",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-08-11/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-08-11_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-08-11_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-08-11_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-08-11_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-04-21/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-04-21",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865042101/0162",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-04-21/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-04-21_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-04-21_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-04-21_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-04-21_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-04-28/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-04-28",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865042801/0174",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-04-28/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-04-28_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-04-28_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-04-28_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-04-28_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-05-19/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-05-19",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865051901/0208",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-05-19/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-05-19_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-05-19_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-05-19_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-05-19_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-03-03/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-03-03",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865030301/0088",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-03-03/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-03-03_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-03-03_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-03-03_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-03-03_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-05-12/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-05-12",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865051201/0198",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-05-12/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-05-12_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-05-12_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-05-12_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-05-12_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-09-08/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-09-08",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865090801/0382",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-09-08/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-09-08_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-09-08_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-09-08_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-09-08_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-09-22/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-09-22",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865092201/0404",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-09-22/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-09-22_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-09-22_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-09-22_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-09-22_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-03-31/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-03-31",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865033101/0127",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-03-31/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-03-31_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-03-31_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-03-31_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-03-31_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-05-05/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-05-05",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865050501/0186",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-05-05/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-05-05_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-05-05_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-05-05_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-05-05_ed-1_seq-1.txt"
+      }
+    },
+    {
+      "page_id": "sn83016751/1865-06-09/ed-1/seq-1",
+      "newspaper_title": "the weekly pioneer and democrat (saint paul, minn. territory) 1855-1865",
+      "lccn": "sn83016751",
+      "date": "1865-06-09",
+      "edition": 1,
+      "sequence": 1,
+      "state": "minnesota",
+      "city": "saint paul",
+      "batch_path": "ndnp/mnhi/batch_mnhi_foxtrot_ver01/data/sn83016751/00383347336/1865060901/0236",
+      "url": "https://www.loc.gov/resource/sn83016751/1865-06-09/ed-1/?sp=1",
+      "files": {
+        "pdf": "pages/sn83016751_1865-06-09_ed-1_seq-1.pdf",
+        "jp2": "pages/sn83016751_1865-06-09_ed-1_seq-1.jp2",
+        "xml": "pages/sn83016751_1865-06-09_ed-1_seq-1.xml",
+        "txt": "pages/sn83016751_1865-06-09_ed-1_seq-1.txt"
+      }
+    }
+  ]
+}

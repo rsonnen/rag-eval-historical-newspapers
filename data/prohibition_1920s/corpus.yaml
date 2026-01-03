@@ -1,0 +1,37 @@
+name: "Prohibition Era Newspapers (1920-1933)"
+
+corpus_context: >
+  150 digitized newspaper pages from the Library of Congress Chronicling America
+  collection covering the Prohibition era (18th Amendment). Pages contain
+  contemporary reporting on the Volstead Act, speakeasies, bootlegging, law
+  enforcement efforts, and the temperance movement. Documents include variable
+  OCR quality due to age, multi-column layouts, period typography, and mixed
+  content (articles, advertisements, images). Source: Library of Congress NDNP.
+
+scenarios:
+  historical_research:
+    name: "Historical Research"
+    description: >
+      You are creating questions for historians researching American Prohibition.
+      Questions should test understanding of how newspapers covered the era,
+      what social attitudes were expressed, how enforcement was reported, and
+      what regional perspectives existed. Focus on content that requires reading
+      the actual newspaper text, not general knowledge of Prohibition history.
+
+  document_retrieval:
+    name: "Document Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific news items,
+      headlines, or details from the newspaper pages. Questions should target
+      specific events, names, dates, or quotes that appear in the documents.
+      Account for OCR errors - the question/answer should match what's actually
+      in the extracted text, which may contain recognition errors.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these newspaper
+      pages. Questions must have specific, verifiable answers from the text -
+      particular names, dates, locations, or quoted phrases. Be aware of OCR
+      quality issues; test for content that's clearly readable despite any
+      recognition errors.

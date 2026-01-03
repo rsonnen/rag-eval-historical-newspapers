@@ -1,0 +1,34 @@
+name: "Civil War Union Newspapers (1861-1865)"
+
+corpus_context: >
+  150 digitized newspaper pages from Northern states during the American Civil
+  War (1861-1865). From the Library of Congress Chronicling America collection.
+  Pages contain Union perspective on the war, battle reports, political news,
+  abolitionist content, and homefront matters. Documents feature mid-19th century
+  typography and language conventions. Significant OCR challenges due to age and
+  print quality. Source: Library of Congress NDNP.
+
+scenarios:
+  historical_research:
+    name: "Historical Research"
+    description: >
+      You are creating questions for historians researching the Union homefront
+      during the Civil War. Questions should test understanding of how Northern
+      newspapers reported battles, political developments, Lincoln administration
+      policies, and social conditions. Focus on primary source perspectives.
+
+  document_retrieval:
+    name: "Document Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific Civil War-era
+      content from Union newspapers. Questions should target battle reports,
+      casualty lists, political speeches, or specific events as reported in the
+      North. Account for significant OCR errors due to document age.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system read these Civil War newspapers.
+      Questions must have specific, verifiable answers despite OCR challenges.
+      Target clearly legible content - dates, place names, or distinctive
+      phrases that appear in the documents.
